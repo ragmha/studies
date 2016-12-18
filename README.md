@@ -1,2 +1,8 @@
 # knowledge
-💡 document everything
+
+💡  document everything
+
+ 
+
+
+
