@@ -13,11 +13,13 @@
      Prototypal Pattern             Constructor Pattern
 
 
-## Prototypal Inheritance
+## Abstraction
+> The representation of real world things in computer programs.
 
-Prototypal inheritance is when an object inherits from another object
+## Generalization
+>
 
-## Classical Inheritance
+
 
 
 
