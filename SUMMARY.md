@@ -6,4 +6,5 @@
 * [js](js.md)
     * [Functional](functional.md)
         * [Currying](currying.md)
+* Inheritance
 
