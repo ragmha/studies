@@ -1,5 +1,5 @@
-# Two Ways to Build a System
+# Two Ways to Build a System 
 
-* Monolithic
+* **Monolithic**
 
-* Distributed
+* **Distributed**
