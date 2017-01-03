@@ -1,4 +1,4 @@
-# Functions Part-1
+# Functions
 
 ## Higher order functions:
 
