@@ -46,4 +46,5 @@
 * [what-is-ES2015?](what-is-es2015.md)
 * [why-include-a-demo-app?](why-include-a-demo-app.md)
 * [why-manipulate-HTML-for-production?](why-manipulate-html-for-production.md)
+* [why-sepearte-the-UI-and-API?](why-sepearte-the-ui-and-api.md)
 
