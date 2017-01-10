@@ -1,4 +1,4 @@
-# Why Webpack?
+# Why Webpack? 🤔
 
 * Much more than just JS
 
