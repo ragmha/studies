@@ -9,3 +9,7 @@
 4. an object that happens to have the function as a property // {}
 
 5. "an execution context" or "scope" of that function call // {a:.., b:..}
+
+# `this` is bound to
+
+1. The object found to the left of the dot where the containing function is called // obj.fn(3,4)  `obj.` {}
