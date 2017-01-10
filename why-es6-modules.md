@@ -2,12 +2,12 @@
 
 * Standardized
 
-* Statically analyzable
+* ### Statically analyzable
   * Improved autocomplete
   * Intelligent refactoring
   * Fails fast
   * Tree shaking
 
-* Easy to read
+* ### Easy to read
   * Named imports
   * Default exports
