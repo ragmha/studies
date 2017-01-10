@@ -1,4 +1,4 @@
-# Why SQL Injection Matters
+# Why SQL Injection Matters ? 🤔
 
 * Discoverability [EASY]
 
