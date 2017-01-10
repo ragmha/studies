@@ -1,7 +1,5 @@
 # Why Centralize API Calls? 🤔
 
-
-
 * Configure all calls
 
 * Handle preloader logic
