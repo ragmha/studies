@@ -44,4 +44,5 @@
 * [what-does-a-CI-server-do?](what-does-a-ci-server-do.md)
 * [what-is-ECMA?](what-is-ecma.md)
 * [what-is-ES2015?](what-is-es2015.md)
+* [why-include-a-demo-app?](why-include-a-demo-app.md)
 
