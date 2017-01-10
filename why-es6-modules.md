@@ -1,4 +1,4 @@
-# Why Use ES6 Modules ?
+# Why Use ES6 Modules ? 🤔
 
 * Standardized
 
