@@ -1,7 +1,5 @@
 # Why Lint ? 🤔
 
-
-
 ## Enforce Consistency
 
 * Curly brace position
