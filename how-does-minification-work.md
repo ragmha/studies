@@ -1,11 +1,11 @@
-How Does Minification Work? 🤔
+# How Does Minification Work? 🤔
 
-Shortens variable and function names
+* Shortens variable and function names
 
-Removes comments
+* Removes comments
 
-Removes whitespeace and new lines
+* Removes whitespeace and new lines
 
-Dead code elimination / Tree shaking
+* Dead code elimination / Tree shaking
 
-Debug via sourcemap
+* Debug via sourcemap
