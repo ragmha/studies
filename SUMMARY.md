@@ -18,7 +18,6 @@
 * [when-should-unit-test-run?](when-should-unit-test-run.md)
 * [where-do-test-belong?](where-do-test-belong.md)
 * [where-to-run-test?](where-to-run-test.md)
-* [why-mock-HTTP?](Why Mock HTTP?.md)
 * [why-centralize-API-calls?](why-centralize-api-calls.md)
 * [why-CI?](why-CI?.md)
 * [why-es6-modules?](why-es6-modules.md)
@@ -26,4 +25,5 @@
 * [why-lint-via-automated-build-process?](why-lint-via-automated-build-process.md)
 * [why-lint?](why-lint.md)
 * [why-webpack?](why-webpack.md)
+* [why-mock-http?](why-mock-http.md)
 
