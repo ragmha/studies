@@ -1,4 +1,6 @@
-# Why Lint ?
+# Why Lint ? 🤔
+
+
 
 ## Enforce Consistency
 
