@@ -1,9 +1,9 @@
-# Unit Tests Should Run when you hit save
+# Unit Tests Should Run when you hit save 
 
-## Rapid Feedback
+* Rapid Feedback
 
-## Facilitates TDD
+* Facilitates TDD
 
-## Automatic = Low friction
+* Automatic = Low friction
 
-## Increases test visibility
+* Increases test visibility
