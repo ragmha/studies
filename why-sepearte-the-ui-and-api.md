@@ -1,4 +1,4 @@
-# Why separate the UI and API?
+# Why separate the UI and API? 🤔
 
 1. Simple, low-risk, UI only deploys
 
