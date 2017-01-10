@@ -45,4 +45,5 @@
 * [what-is-ECMA?](what-is-ecma.md)
 * [what-is-ES2015?](what-is-es2015.md)
 * [why-include-a-demo-app?](why-include-a-demo-app.md)
+* [why-manipulate-HTML-for-production?](why-manipulate-html-for-production.md)
 
