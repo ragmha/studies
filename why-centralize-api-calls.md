@@ -1,4 +1,6 @@
-# Why Centralize API Calls?
+# Why Centralize API Calls? 🤔
+
+
 
 * Configure all calls
 
