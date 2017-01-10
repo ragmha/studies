@@ -1,4 +1,6 @@
-# Why Lint via an Automated Build Process?
+# Why Lint via an Automated Build Process? 🤔
+
+
 
 * One place to check
 
