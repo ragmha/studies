@@ -6,7 +6,7 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [5/24]
+## PROGRESS 🚀 [6/24]
 
 ## PART 1 :coffee:
 |  Exercises  |  Status    |
@@ -16,7 +16,7 @@
 | [Exercise 3: Spruce](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise3/Spruce.java) |  🔥|
 | [Exercise 4: Varying variables](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise4/Variables.java) | 🔥|
 | [Exercise 5: Seconds in a year](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise5/SecondsOfTheYear.java) | 🔥|
-| [Exercise 6: Addition]() |  🚧|
+| [Exercise 6: Addition](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise6/Addition.java) |  🔥|
 | [Exercise 7: Multiplication]() |  🚧|
 | [Exercise 8: Adder]() | 🚧|
 | [Exercise 9: Divider]() | 🚧|
