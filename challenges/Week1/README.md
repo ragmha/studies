@@ -6,7 +6,7 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [18/24]
+## PROGRESS 🚀 [19/24]
 
 ## PART 1 :coffee:
 |  Exercises  |  Status    |
