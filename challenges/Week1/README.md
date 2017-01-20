@@ -6,7 +6,7 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [16/24]
+## PROGRESS 🚀 [17/24]
 
 ## PART 1 :coffee:
 |  Exercises  |  Status    |
@@ -27,7 +27,7 @@
 | [Exercise 14: A positive number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise14/PositiveValue.java) | 🔥|
 | [Exercise 15: Age of majority](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise15/AgeOfMajority.java) | 🔥|
 | [Exercise 16: Even or odd?](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise16/EvenOrOdd.java) | 🔥|
-| [Exercise 17: Greater number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise17/) | 🚧|
+| [Exercise 17: Greater number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise17/GreaterNumber.java) | 🔥|
 | [Exercise 18: Grades and points](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise18/) |  🚧|
 | [Exercise 19: Age check](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise19/) |  🚧|
 | [Exercise 20: Usernames](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise20/) |  🚧|
