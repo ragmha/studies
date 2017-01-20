@@ -14,6 +14,5 @@ public class AgeCheck {
         } else {
             System.out.println("Impossible!");
         }
-
     }
 }
