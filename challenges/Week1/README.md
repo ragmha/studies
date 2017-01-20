@@ -6,7 +6,7 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [9/24]
+## PROGRESS 🚀 [10/24]
 
 ## PART 1 :coffee:
 |  Exercises  |  Status    |
@@ -19,8 +19,8 @@
 | [Exercise 6: Addition](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise6/Addition.java) | 🔥|
 | [Exercise 7: Multiplication](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise7/Multiplication.java) | 🔥|
 | [Exercise 8: Adder](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise8/Adder.java) | 🔥|
-| [Exercise 9: Divider](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise9/Divider.java) | 🚧|
-| [Exercise 10: Calculating the circumference]() |  🚧|
+| [Exercise 9: Divider](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise9/Divider.java) | 🔥|
+| [Exercise 10: Calculating the circumference](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise10/Circumference.java) |  🔥|
 | [Exercise 11: Bigger number]() |  🚧|
 | [Exercise 12: Sum of the ages]() |  🚧|
 | [Exercise 13: NHL statistics, part 1]() | 🚧|
