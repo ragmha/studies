@@ -6,7 +6,7 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [13/24]
+## PROGRESS 🚀 [15/24]
 
 ## PART 1 :coffee:
 |  Exercises  |  Status    |
@@ -25,7 +25,7 @@
 | [Exercise 12: Sum of the ages](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise12/SumOfTheAges.java) | 🔥|
 | [Exercise 13: NHL statistics, part 1](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise13/NHL-stats1.java) | 🔥|
 | [Exercise 14: A positive number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise14/PositiveValue.java) | 🔥|
-| [Exercise 15: Age of majority](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise15/) |  🚧|
+| [Exercise 15: Age of majority](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise15/AgeOfMajority.java) | 🔥|
 | [Exercise 16: Even or odd?](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise16/) | 🚧|
 | [Exercise 17: Greater number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise17/) | 🚧|
 | [Exercise 18: Grades and points](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise18/) |  🚧|
