@@ -6,12 +6,12 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [1/]
+## PROGRESS 🚀 [1/24]
 
 ## PART 1 :coffee:
 |  Exercises  |  Status    |
 | :------------- | :------------- |
-| [Exercise 1: Name]() | 🚧|
+| [Exercise 1: Name](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise1/Name.java) | 🔥|
 | [Exercise 2: Hello world! (And all the people of the  world)]() | 🚧|
 | [Exercise 3: Spruce]() |  🚧|
 | [Exercise 4: Varying variables]() | 🚧|
