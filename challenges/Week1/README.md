@@ -6,7 +6,7 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [7/24]
+## PROGRESS 🚀 [8/24]
 
 ## PART 1 :coffee:
 |  Exercises  |  Status    |
@@ -18,7 +18,7 @@
 | [Exercise 5: Seconds in a year](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise5/SecondsOfTheYear.java) | 🔥|
 | [Exercise 6: Addition](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise6/Addition.java) | 🔥|
 | [Exercise 7: Multiplication](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise7/Multiplication.java) | 🔥|
-| [Exercise 8: Adder]() | 🚧|
+| [Exercise 8: Adder](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise8/Adder.java) | 🔥|
 | [Exercise 9: Divider]() | 🚧|
 | [Exercise 10: Calculating the circumference]() |  🚧|
 | [Exercise 11: Bigger number]() |  🚧|
