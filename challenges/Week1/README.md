@@ -6,7 +6,7 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [11/24]
+## PROGRESS 🚀 [12/24]
 
 ## PART 1 :coffee:
 |  Exercises  |  Status    |
@@ -22,16 +22,16 @@
 | [Exercise 9: Divider](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise9/Divider.java) | 🔥|
 | [Exercise 10: Calculating the circumference](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise10/Circumference.java) |  🔥|
 | [Exercise 11: Bigger number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise11/BiggerNumber.java) | 🔥|
-| [Exercise 12: Sum of the ages]() |  🚧|
-| [Exercise 13: NHL statistics, part 1]() | 🚧|
-| [Exercise 14: A positive number]() |  🚧|
-| [Exercise 15: Age of majority]() |  🚧|
-| [Exercise 16: Even or odd?]() | 🚧|
-| [Exercise 17: Greater number]() | 🚧|
-| [Exercise 18: Grades and points]() |  🚧|
-| [Exercise 19: Age check]() |  🚧|
-| [Exercise 20: Usernames]() |  🚧|
-| [Exercise 21: Leap year]() |  🚧|
-| [Exercise 22: Password]() | 🚧|
-| [Exercise 23: Temperatures]() | 🚧|
-| [Exercise 24: NHL statistics, part 2]() | 🚧|
+| [Exercise 12: Sum of the ages](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise12/SumOfTheAges.java) | 🔥|
+| [Exercise 13: NHL statistics, part 1](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise13/) | 🚧|
+| [Exercise 14: A positive number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise14/) |  🚧|
+| [Exercise 15: Age of majority](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise15/) |  🚧|
+| [Exercise 16: Even or odd?](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise16/) | 🚧|
+| [Exercise 17: Greater number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise17/) | 🚧|
+| [Exercise 18: Grades and points](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise18/) |  🚧|
+| [Exercise 19: Age check](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise19/) |  🚧|
+| [Exercise 20: Usernames](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise20/) |  🚧|
+| [Exercise 21: Leap year](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise21/) |  🚧|
+| [Exercise 22: Password](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise22/) | 🚧|
+| [Exercise 23: Temperatures](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise23/) | 🚧|
+| [Exercise 24: NHL statistics, part 2](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise24/) | 🚧|
