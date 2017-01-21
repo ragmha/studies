@@ -6,7 +6,7 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [34/42]
+## PROGRESS 🚀 [35/42]
 
 |  Exercises  |  Status    |
 | :------------- | :------------- |
@@ -20,7 +20,7 @@
 | [Exercise 32: The sum of a set of numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise32/TheSumOfSetOfNumbers.java)| 🔥 |
 | [Exercise 33: The sum between two numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise33/TheSumBetweenTwoNumbers.java)| 🔥 |
 | [Exercise 34: Factorial](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise34/Factorial.java)| 🔥 |
-| [Exercise 35: Sum of the powers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise35/)| 🚧 |
+| [Exercise 35: Sum of the powers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise35/)| 🔥 |
 | [Exercise 36: Loops, ending and remembering](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise36/)| 🚧 |
 | [Exercise 37: Printing out text](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise37/)| 🚧 |
 | [Exercise 38: Many prints](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise38/)| 🚧 |
