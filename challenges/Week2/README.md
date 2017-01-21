@@ -6,7 +6,7 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [29/42]
+## PROGRESS 🚀 [30/42]
 
 |  Exercises  |  Status    |
 | :------------- | :------------- |
@@ -15,7 +15,7 @@
 | [Exercise 27: From one to a hundred](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise27/FromOneToHundred.java)| 🔥 |
 | [Exercise 28: From hundred to one](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise28/FromHundredToOne.java)| 🔥 |
 | [Exercise 29: Even numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise29/EvenNumbers.java)| 🔥 |
-| [Exercise 30: Up to a certain number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise30/)| 🚧 |
+| [Exercise 30: Up to a certain number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise30/)| 🔥 |
 | [Exercise 31: Lower limit and upper limit](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise31/)| 🚧 |
 | [Exercise 32: The sum of a set of numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise32/)| 🚧 |
 | [Exercise 33: The sum between two numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise33/)| 🚧 |
