@@ -6,7 +6,7 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [22/24]
+## PROGRESS 🚀 [23/24]
 
 ## PART 1 :coffee:
 |  Exercises  |  Status    |
@@ -33,5 +33,5 @@
 | [Exercise 20: Usernames](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise20/Usernames.java) | 🔥|
 | [Exercise 21: Leap year](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise21/LeapYear.java) | 🔥|
 | [Exercise 22: Password](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise22/Password.java) | 🔥|
-| [Exercise 23: Temperatures](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise23/) | 🚧|
+| [Exercise 23: Temperatures](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise23/Temperatures.java) | 🔥|
 | [Exercise 24: NHL statistics, part 2](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise24/) | 🚧|
