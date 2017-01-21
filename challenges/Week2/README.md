@@ -6,13 +6,13 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [26/42]
+## PROGRESS 🚀 [27/42]
 
 |  Exercises  |  Status    |
 | :------------- | :------------- |
 | [Exercise 25: Sum of three numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise25/SumOfThreeNumbers.java)| 🔥 |
 | [Exercise 26: Sum of many numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise26/SumOfManyNumbers.java)| 🔥 |
-| [Exercise 27: From one to a hundred](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise27/)| 🚧 |
+| [Exercise 27: From one to a hundred](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise27/FromOneToHundred.java)| 🔥 |
 | [Exercise 28: From hundred to one](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise28/)| 🚧 |
 | [Exercise 29: Even numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise29/)| 🚧 |
 | [Exercise 30: Up to a certain number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise30/)| 🚧 |
