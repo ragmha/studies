@@ -6,7 +6,7 @@
 
 * 🔥 - DONE
 
-## PROGRESS 🚀 [37/42]
+## PROGRESS 🚀 [38/42]
 
 |  Exercises  |  Status    |
 | :------------- | :------------- |
@@ -23,7 +23,7 @@
 | [Exercise 35: Sum of the powers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise35/SumOfThePowers.java)| 🔥 |
 | [Exercise 36: Loops, ending and remembering](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise36/LoopsEndingRemembering.java)| 🔥 |
 | [Exercise 37: Printing out text](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise37/PrintingOutText.java)| 🔥 |
-| [Exercise 38: Many prints](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise38/)| 🚧 |
+| [Exercise 38: Many prints](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise38/ManyPrints.java)| 🔥 |
 | [Exercise 39: Printing](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise39/)| 🚧 |
 | [Exercise 40: Printing Like A Boss](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise40/)| 🚧 |
 | [Exercise 41: Guessing a number game](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise41/)| 🚧 |
