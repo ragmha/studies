@@ -8,7 +8,6 @@
 
 ## PROGRESS 🚀 [24/24]
 
-## PART 1 :coffee:
 |  Exercises  |  Status    |
 | :------------- | :------------- |
 | [Exercise 1: Name](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise1/Name.java) | 🔥|
