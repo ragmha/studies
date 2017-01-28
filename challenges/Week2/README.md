@@ -6,7 +6,7 @@
 
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[41/42]`
+## PROGRESS 🚀 `[42/42]`
 
 |Exercises|Status|
 | :------------- | :------------- |
@@ -27,4 +27,4 @@
 | [Exercise 39: Printing](./Exercise39/Printing.java)| 🔥 |
 | [Exercise 40: Printing Like A Boss](./Exercise40/PrintingLikeboss.java)| 🔥 |
 | [Exercise 41: Guessing a number game](./Exercise41/GuessingNumberGame.java)| 🔥 |
-| [Exercise 42: A text-based user interface for the Hangman game](./Exercise42/)| 🚧 |
+| [Exercise 42: A text-based user interface for the Hangman game](./Exercise42/HangmanUserInteface)| 🔥 |
