@@ -2,29 +2,29 @@
 
 ## Key
 
-* 🚧 - TODO..
+*   🚧 - TODO..
 
-* 🔥 - DONE
+*   🔥 - DONE
 
-## PROGRESS 🚀 [39/42]
+## PROGRESS 🚀 `[40/42]`
 
-|  Exercises  |  Status    |
+|Exercises|Status|
 | :------------- | :------------- |
-| [Exercise 25: Sum of three numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise25/SumOfThreeNumbers.java)| 🔥 |
-| [Exercise 26: Sum of many numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise26/SumOfManyNumbers.java)| 🔥 |
-| [Exercise 27: From one to a hundred](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise27/FromOneToHundred.java)| 🔥 |
-| [Exercise 28: From hundred to one](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise28/FromHundredToOne.java)| 🔥 |
-| [Exercise 29: Even numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise29/EvenNumbers.java)| 🔥 |
-| [Exercise 30: Up to a certain number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise30/UpToCertainNumber.java)| 🔥 |
-| [Exercise 31: Lower limit and upper limit](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise31/LowerLimitAndUpperLimit.java)| 🔥 |
-| [Exercise 32: The sum of a set of numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise32/TheSumOfSetOfNumbers.java)| 🔥 |
-| [Exercise 33: The sum between two numbers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise33/TheSumBetweenTwoNumbers.java)| 🔥 |
-| [Exercise 34: Factorial](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise34/Factorial.java)| 🔥 |
-| [Exercise 35: Sum of the powers](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise35/SumOfThePowers.java)| 🔥 |
-| [Exercise 36: Loops, ending and remembering](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise36/LoopsEndingRemembering.java)| 🔥 |
-| [Exercise 37: Printing out text](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise37/PrintingOutText.java)| 🔥 |
-| [Exercise 38: Many prints](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise38/ManyPrints.java)| 🔥 |
-| [Exercise 39: Printing](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise39/Printing.java)| 🔥 |
-| [Exercise 40: Printing Like A Boss](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise40/)| 🚧 |
-| [Exercise 41: Guessing a number game](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise41/)| 🚧 |
-| [Exercise 42: A text-based user interface for the Hangman game](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week2/Exercise42/)| 🚧 |
+| [Exercise 25: Sum of three numbers](./Exercise25/SumOfThreeNumbers.java)| 🔥 |
+| [Exercise 26: Sum of many numbers](./Exercise26/SumOfManyNumbers.java)| 🔥 |
+| [Exercise 27: From one to a hundred](./Exercise27/FromOneToHundred.java)| 🔥 |
+| [Exercise 28: From hundred to one](./Exercise28/FromHundredToOne.java)| 🔥 |
+| [Exercise 29: Even numbers](./Exercise29/EvenNumbers.java)| 🔥 |
+| [Exercise 30: Up to a certain number](./Exercise30/UpToCertainNumber.java)| 🔥 |
+| [Exercise 31: Lower limit and upper limit](./Exercise31/LowerLimitAndUpperLimit.java)| 🔥 |
+| [Exercise 32: The sum of a set of numbers](./Exercise32/TheSumOfSetOfNumbers.java)| 🔥 |
+| [Exercise 33: The sum between two numbers](./Exercise33/TheSumBetweenTwoNumbers.java)| 🔥 |
+| [Exercise 34: Factorial](./Exercise34/Factorial.java)| 🔥 |
+| [Exercise 35: Sum of the powers](./Exercise35/SumOfThePowers.java)| 🔥 |
+|[Exercise 36: Loops, ending and remembering](./Exercise36/LoopsEndingRemembering.java)| 🔥 |
+| [Exercise 37: Printing out text](./Exercise37/PrintingOutText.java)| 🔥 |
+| [Exercise 38: Many prints](./Exercise38/ManyPrints.java)| 🔥 |
+| [Exercise 39: Printing](./Exercise39/Printing.java)| 🔥 |
+| [Exercise 40: Printing Like A Boss](./Exercise40/PrintingLikeboss.java)| 🚧 |
+| [Exercise 41: Guessing a number game](./Exercise41/)| 🚧 |
+| [Exercise 42: A text-based user interface for the Hangman game](./Exercise42/)| 🚧 |
