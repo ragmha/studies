@@ -2,35 +2,34 @@
 
 ## Key
 
-* 🚧 - TODO..
+*   🚧 - TODO..
+*   🔥 - DONE
 
-* 🔥 - DONE
+## PROGRESS 🚀 `[24/24]`
 
-## PROGRESS 🚀 [24/24]
-
-|  Exercises  |  Status    |
+|  Exercises  | Status    |
 | :------------- | :------------- |
-| [Exercise 1: Name](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise1/Name.java) | 🔥|
-| [Exercise 2: Hello world! (And all the people of the  world)](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise2/Greeter.java) | 🔥|
-| [Exercise 3: Spruce](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise3/Spruce.java) |  🔥|
-| [Exercise 4: Varying variables](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise4/Variables.java) | 🔥|
-| [Exercise 5: Seconds in a year](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise5/SecondsOfTheYear.java) | 🔥|
-| [Exercise 6: Addition](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise6/Addition.java) | 🔥|
-| [Exercise 7: Multiplication](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise7/Multiplication.java) | 🔥|
-| [Exercise 8: Adder](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise8/Adder.java) | 🔥|
-| [Exercise 9: Divider](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise9/Divider.java) | 🔥|
-| [Exercise 10: Calculating the circumference](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise10/Circumference.java) |  🔥|
-| [Exercise 11: Bigger number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise11/BiggerNumber.java) | 🔥|
-| [Exercise 12: Sum of the ages](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise12/SumOfTheAges.java) | 🔥|
-| [Exercise 13: NHL statistics, part 1](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise13/NHL-stats1.java) | 🔥|
-| [Exercise 14: A positive number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise14/PositiveValue.java) | 🔥|
-| [Exercise 15: Age of majority](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise15/AgeOfMajority.java) | 🔥|
-| [Exercise 16: Even or odd?](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise16/EvenOrOdd.java) | 🔥|
-| [Exercise 17: Greater number](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise17/GreaterNumber.java) | 🔥|
-| [Exercise 18: Grades and points](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise18/GradesAndPoints.java) | 🔥|
-| [Exercise 19: Age check](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise19/AgeCheck.java) | 🔥|
-| [Exercise 20: Usernames](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise20/Usernames.java) | 🔥|
-| [Exercise 21: Leap year](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise21/LeapYear.java) | 🔥|
-| [Exercise 22: Password](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise22/Password.java) | 🔥|
-| [Exercise 23: Temperatures](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise23/Temperatures.java) | 🔥|
-| [Exercise 24: NHL statistics, part 2](https://github.com/ragmha/oop-mooc/tree/master/challenges/Week1/Exercise24/NHL-stats2.java) | 🔥|
+| [Exercise 1: Name](./Exercise1/Name.java) | 🔥 |
+| [Exercise 2: Hello world! (And all the people of the  world)](./Exercise2/Greeter.java) | 🔥 |
+| [Exercise 3: Spruce](./Exercise3/Spruce.java) |  🔥 |
+| [Exercise 4: Varying variables](./Exercise4/Variables.java) | 🔥 |
+| [Exercise 5: Seconds in a year](./Exercise5/SecondsOfTheYear.java) | 🔥 |
+| [Exercise 6: Addition](./Exercise6/Addition.java) | 🔥 |
+| [Exercise 7: Multiplication](./Exercise7/Multiplication.java) | 🔥 |
+| [Exercise 8: Adder](./Exercise8/Adder.java) | 🔥 |
+| [Exercise 9: Divider](./Exercise9/Divider.java) | 🔥 |
+| [Exercise 10: Calculating the circumference](./Exercise10/Circumference.java) |  🔥 |
+| [Exercise 11: Bigger number](./Exercise11/BiggerNumber.java) | 🔥 |
+| [Exercise 12: Sum of the ages](./Exercise12/SumOfTheAges.java) | 🔥 |
+| [Exercise 13: NHL statistics, part 1](./Exercise13/NHL-stats1.java) | 🔥 |
+| [Exercise 14: A positive number](./Exercise14/PositiveValue.java) | 🔥 |
+| [Exercise 15: Age of majority](./Exercise15/AgeOfMajority.java) | 🔥 |
+| [Exercise 16: Even or odd?](./Exercise16/EvenOrOdd.java) | 🔥 |
+| [Exercise 17: Greater number](./Exercise17/GreaterNumber.java) | 🔥 |
+| [Exercise 18: Grades and points](./Exercise18/GradesAndPoints.java) | 🔥 |
+| [Exercise 19: Age check](./Exercise19/AgeCheck.java) | 🔥 |
+| [Exercise 20: Usernames](./Exercise20/Usernames.java) | 🔥 |
+| [Exercise 21: Leap year](./Exercise21/LeapYear.java) | 🔥 |
+| [Exercise 22: Password](./Exercise22/Password.java) | 🔥 |
+| [Exercise 23: Temperatures](./Exercise23/Temperatures.java) | 🔥 |
+| [Exercise 24: NHL statistics, part 2](./Exercise24/NHL-stats2.java) | 🔥 |
