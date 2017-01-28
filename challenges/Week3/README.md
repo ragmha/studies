@@ -5,14 +5,14 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[3/27]`
+## PROGRESS 🚀 `[4/27]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
 | [Exercise 43: Sum of numbers](./Exercise43/SumOfNumbers.java) | 🔥 |
 | [Exercise 44: Least](./Exercise44/Least.java) | 🔥 |
 | [Exercise 45: Greatest](./Exercise45/Greatest.java) | 🔥 |
-| [Exercise 46: Average of given numbers](./Exercise46/) | 🚧 |
+| [Exercise 46: Average of given numbers](./Exercise46/AverageOfGivenNumbers.java) | 🔥 |
 | [Exercise 47: The length of a name](./Exercise47/) | 🚧 |
 | [Exercise 48: First character](./Exercise48/) | 🚧 |
 | [Exercise 49: Last character](./Exercise49/) | 🚧 |
