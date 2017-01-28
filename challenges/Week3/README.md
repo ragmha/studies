@@ -5,12 +5,12 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[1/27]`
+## PROGRESS 🚀 `[2/27]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
 | [Exercise 43: Sum of numbers](./Exercise43/SumOfNumbers.java) | 🔥 |
-| [Exercise 44: Least](./Exercise44/) | 🚧 |
+| [Exercise 44: Least](./Exercise44/Least.java) | 🔥 |
 | [Exercise 45: Greatest](./Exercise45/) | 🚧 |
 | [Exercise 46: Average of given numbers](./Exercise46/) | 🚧 |
 | [Exercise 47: The length of a name](./Exercise47/) | 🚧 |
