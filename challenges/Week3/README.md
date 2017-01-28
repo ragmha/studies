@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[7/27]`
+## PROGRESS 🚀 `[8/27]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -16,7 +16,7 @@
 | [Exercise 47: The length of a name](./Exercise47/LengthOfName.java) | 🔥 |
 | [Exercise 48: First character](./Exercise48/FirstCharacter.java) | 🔥 |
 | [Exercise 49: Last character](./Exercise49/LastCharacter.java) | 🔥 |
-| [Exercise 50: Separating first characters](./Exercise50/) | 🚧 |
+| [Exercise 50: Separating first characters](./Exercise50/FirstCharacters.java) | 🔥 |
 | [Exercise 51: Separating characters](./Exercise51/) | 🚧 |
 | [Exercise 52: Reversing a name](./Exercise52/) | 🚧 |
 | [Exercise 53: First part](./Exercise53/) | 🚧 |
