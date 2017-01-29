@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[18/27]`
+## PROGRESS 🚀 `[19/27]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -27,7 +27,7 @@
 | [Exercise 58: Recurring word](./Exercise58/RecurringWord.java) | 🔥 |
 | [Exercise 59: Words in reverse order](./Exercise59/WordsInReverseOrder.java) | 🔥 |
 | [Exercise 60: Words in alphabetical order](./Exercise60/WordsInAlphabeticalOrder.java) | 🔥 |
-| [Exercise 61: Amount of items in a list](./Exercise61/) | 🚧 |
+| [Exercise 61: Amount of items in a list](./Exercise61/NumberOfItems.java) | 🔥 |
 | [Exercise 62: Remove last](./Exercise62/) | 🚧 |
 | [Exercise 63: Sum of the numbers](./Exercise63/) | 🚧 |
 | [Exercise 64: Average of numbers](./Exercise64/) | 🚧 |
