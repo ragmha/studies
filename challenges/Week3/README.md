@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[26/27]`
+## PROGRESS 🚀 `[27/27]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -35,4 +35,4 @@
 | [Exercise 66: The Greatest](./Exercise66/TheGreatest.java) | 🔥 |
 | [Exercise 67: Variance](./Exercise67/Variance.java) | 🔥 |
 | [Exercise 68: Is the number more than once in the list?](./Exercise68/MoreThanOnce.java) | 🔥 |
-| [Exercise 69: Palindrome](./Exercise69/) | 🚧 |
+| [Exercise 69: Palindrome](./Exercise69/Palindrome.java) | 🔥 |
