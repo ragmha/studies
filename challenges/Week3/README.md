@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[24/27]`
+## PROGRESS 🚀 `[25/27]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -33,6 +33,6 @@
 | [Exercise 64: Average of numbers](./Exercise64/AverageOfNumbers.java) | 🔥 |
 | [Exercise 65: The lengths of the Strings](./Exercise65/LengthsOfStrings.java) | 🔥 |
 | [Exercise 66: The Greatest](./Exercise66/TheGreatest.java) | 🔥 |
-| [Exercise 67: Variance](./Exercise67/) | 🚧 |
+| [Exercise 67: Variance](./Exercise67/Variance.java) | 🔥 |
 | [Exercise 68: Is the number more than once in the list?](./Exercise68/) | 🚧 |
 | [Exercise 69: Palindrome](./Exercise69/) | 🚧 |
