@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[11/27]`
+## PROGRESS 🚀 `[12/27]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -19,8 +19,8 @@
 | [Exercise 50: Separating first characters](./Exercise50/FirstCharacters.java) | 🔥 |
 | [Exercise 51: Separating characters](./Exercise51/SeparatingCharacters.java) | 🔥 |
 | [Exercise 52: Reversing a name](./Exercise52/ReversingName.java) | 🔥 |
-| [Exercise 53: First part](./Exercise53/FirstPart.java) | 🚧 |
-| [Exercise 54: The end part](./Exercise54/) | 🚧 |
+| [Exercise 53: First part](./Exercise53/FirstPart.java) | 🔥 |
+| [Exercise 54: The end part](./Exercise54/TheEndPart.java) | 🔥 |
 | [Exercise 55: A word inside a word](./Exercise55/) | 🚧 |
 | [Exercise 56: Reversing text](./Exercise56/) | 🚧 |
 | [Exercise 57: Words](./Exercise57/) | 🚧 |
