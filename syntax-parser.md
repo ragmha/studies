@@ -8,11 +8,13 @@
       function HelloWorld {
         var a = "Hello world";
       }
+              |
+              V
 
+      [  SYNTAX PARSER  ]
 
-      [SYNTAX PARSER]
-
-
+              |
+              V
 
       // COMPUTER INSTRUCTIONS
       |===================|
