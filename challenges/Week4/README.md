@@ -5,11 +5,11 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[-/14]`
+## PROGRESS 🚀 `[1/14]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
-| [Exercise 70: Combining ArrayLists](./Exercise70/.java) | 🚧 |
+| [Exercise 70: Combining ArrayLists](./Exercise70/CombiningArrayLists.java) | 🔥 |
 | [Exercise 71: Smart combining](./Exercise71/.java) | 🚧 |
 | [Exercise 72: Accounts](./Exercise72/.java) | 🚧 |
 | [Exercise 73: Product](./Exercise73/.java) | 🚧 |
