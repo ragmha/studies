@@ -11,7 +11,7 @@
 | :------------- | :------------- |
 | [Exercise 70: Combining ArrayLists](./Exercise70/CombiningArrayLists.java) | 🔥 |
 | [Exercise 71: Smart combining](./Exercise71/SmartCombining.java) | 🔥 |
-| Exercise 72: Accounts <li>[part1](./Exercise71/ex72-1/Account.java)</li><li>[part2]()</li><li>[part3]()</li> | 🔥 🚧 🚧 |
+| Exercise 72: Accounts <li>[part1](./Exercise72/ex72-1/Account.java)</li><li>[part2]()</li><li>[part3]()</li> | 🔥 🚧 🚧 |
 | [Exercise 73: Product](./Exercise73/.java) | 🚧 |
 | [Exercise 74: Multiplier](./Exercise74/.java) | 🚧 |
 | [Exercise 75: Decreasing counter](./Exercise75/.java) | 🚧 |
