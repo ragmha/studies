@@ -5,14 +5,14 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[3/14]`
+## PROGRESS 🚀 `[4/14]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
 | [Exercise 70: Combining ArrayLists](./Exercise70/CombiningArrayLists.java) | 🔥 |
 | [Exercise 71: Smart combining](./Exercise71/SmartCombining.java) | 🔥 |
-| Exercise 72: Accounts <li>[part1](./Exercise72/ex72-1/Account.java)</li><li>[part2](./Exercise72/ex72-2/Account.java)</li><li>[part3](./Exercise72/ex72-3/Account.java)</li> | 🔥 🔥 🔥 |
-| [Exercise 73: Product](./Exercise73/.java) | 🚧 |
+| [Exercise 72: Accounts](./Exercise72/) <li>[part1](./Exercise72/ex72-1/Account.java)</li><li>[part2](./Exercise72/ex72-2/Account.java)</li><li>[part3](./Exercise72/ex72-3/Account.java)</li> | 🔥 🔥 🔥 |
+| [Exercise 73: Product](./Exercise73/Product.java) | 🔥 |
 | [Exercise 74: Multiplier](./Exercise74/.java) | 🚧 |
 | [Exercise 75: Decreasing counter](./Exercise75/.java) | 🚧 |
 | [Exercise 76: Menu](./Exercise76/.java) | 🚧 |
