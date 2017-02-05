@@ -5,7 +5,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[6/14]`
+## PROGRESS 🚀 `[7/14]`
 
 | Exercises  | Status    |
 | :------------- | :------------- |
@@ -15,7 +15,7 @@
 | [Exercise 73: Product](./Exercise73/Product.java) | 🔥 |
 | [Exercise 74: Multiplier](./Exercise74/Multiplier.java) | 🔥 |
 | [Exercise 75: Decreasing counter](./Exercise75/DecreasingCounter.java) | 🔥 |
-| [Exercise 76: Menu](./Exercise76/.java) | 🚧 |
+| [Exercise 76: Menu](./Exercise76/Menu.java) | 🔥 |
 | [Exercise 77: Lyyra-card](./Exercise77/.java) | 🚧 |
 | [Exercise 78: Clock using a counter](./Exercise78/.java) | 🚧 |
 | [Exercise 79: NumberStatistics](./Exercise79/.java) | 🚧 |
