@@ -1,27 +1,47 @@
 /*
 
-    THE FIRST VERSION OF THE CLOCK 🕕
+    THE SECOND VERSION OF THE CLOCK 🕕
 
  */
 
-public class Main {
+ import java.util.Scanner;
 
-    public static void main(String[] args) {
+ public class Main {
 
-        BoundedCounter minutes = new BoundedCounter(59);
-        BoundedCounter hours = new BoundedCounter(23);
+     public static void main(String[] args) {
 
-        int i = 0;
-        while ( i < 121 ) {
-            System.out.println( hours + ":" + minutes);
+         Scanner reader = new Scanner(System.in);
+         BoundedCounter seconds = new BoundedCounter(59);
+         BoundedCounter minutes = new BoundedCounter(59);
+         BoundedCounter hours = new BoundedCounter(23);
 
-            minutes.next();
+         System.out.print("seconds: ");
+         int s = Integer.parseInt(reader.next());
 
-            if(minutes.getValue() <= 0) {
-                hours.next();
-            }
+         System.out.print("minutes: ");
+         int m = Integer.parseInt(reader.next());
 
-            i++;
-        }
-    }
-}
+         System.out.print("hours: ");
+         int h =  Integer.parseInt(reader.next());
+
+         seconds.setValue(s);
+         minutes.setValue(m);
+         hours.setValue(h);
+
+         int i = 0;
+         while ( i < 121 ) {
+
+             System.out.println( hours + ":" + minutes + ":" + seconds);
+
+             seconds.next();
+             if(seconds.getValue() == 0) {
+                 minutes.next();
+                 if(minutes.getValue() == 0) {
+                     hours.next();
+                 }
+             }
+
+             i++;
+         }
+     }
+ }
