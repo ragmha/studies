@@ -1,38 +1,42 @@
-/*
-    THE SECOND VERSION OF THE CLOCK 🕕
- */
 
- public class BoundedCounter {
-     private int value;
-     private int upperLimit;
+public class BoundedCounter {
 
-     public BoundedCounter(int upperLimit) {
-         this.upperLimit = upperLimit;
-     }
+    private int value;
+    private int upperLimit;
 
-     public void next() {
-         if (this.value < this.upperLimit) {
-             this.value++;
-         }else {
-             this.value = 0;
-         }
-     }
+    public BoundedCounter(int upperLimit) {
+        this.value = 0;
+        this.upperLimit = upperLimit;
+    }
 
-     @Override
-     public String toString() {
-         return this.value < 10 ?
-             "0" + this.value  : "" + this.value ;
-     }
+    public void next() {
+        if (this.value < this.upperLimit) {
+            this.value++;
+        }else {
+            this.value = 0;
+        }
+    }
 
-     public int getValue() {
-         return this.value;
-     }
+    @Override
+    public String toString() {
+        String initialZero = "0";
 
-     public void setValue(int value) {
-         if (value > 0 && value <= this.upperLimit){
-             this.value = value;
-         }
+        if (this.value > 9) {
+            initialZero = "";
+        }
 
-     }
+        return initialZero  + this.value;
+    }
 
- }
+    public int getValue() {
+        return this.value;
+    }
+
+    public void setValue(int value) {
+        if (value > 0 && value <= this.upperLimit){
+            this.value = value;
+        }
+
+    }
+
+}
