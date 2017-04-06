@@ -11,14 +11,14 @@
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
-| [Objects](https://github.com/ragmha/fm-JS101/tree/master/challenges/Objects) | 🔥 |
-| [Arrays](https://github.com/ragmha/fm-JS101/tree/master/challenges/Arrays) | 🔥 |
-| [Functions](https://github.com/ragmha/fm-JS101/tree/master/challenges/Functions) | 🔥 |
-|[Nesting](https://github.com/ragmha/fm-JS101/tree/master/challenges/Nesting) | 🔥 |
-| [Scope](https://github.com/ragmha/fm-JS101/tree/master/challenges/Scope)| 🔥 |
-| [Closure](https://github.com/ragmha/fm-JS101/tree/master/challenges/Closures) | 🔥 |
-| [Callbacks](https://github.com/ragmha/fm-JS101/tree/master/challenges/Callbacks) | 🔥 |
-| [Underscore.js](https://github.com/ragmha/fm-JS101/tree/master/challenges/Underscore) | 🔥 | |
+| [Objects](./challenges/Objects) | 🔥 |
+| [Arrays](./challenges/Arrays) | 🔥 |
+| [Functions](./challenges/Functions) | 🔥 |
+| [Nesting](./challenges/Nesting) | 🔥 |
+| [Scope](./challenges/Scope)| 🔥 |
+| [Closure](./challenges/Closures) | 🔥 |
+| [Callbacks](./challenges/Callbacks) | 🔥 |
+| [Underscore.js](./challenges/Underscore) | 🔥 | |
 
 ## LICENSE
 [MIT](./LICENSE)
