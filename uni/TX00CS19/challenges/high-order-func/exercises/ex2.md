@@ -3,11 +3,11 @@
 ```scala
 val arr = Array(1, 25, 47, 2, 54, 0, 6)
 
-val max = arr.reduceLeft((x , y) => if ( x > y) x else y)
+val max = arr.reduceLeft((x , y) => if ( x > y) x else y) // => 54
 ```
 
 OR
 
 ```scala
-val emax = arr.reduceLeft(_ max _)
+val emax = arr.reduceLeft(_ max _) // => 54
 ```
