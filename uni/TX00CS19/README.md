@@ -21,7 +21,7 @@
 | [Inheritance](./challenges/inheritance) | 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🚧 |
 | [Traits](./challenges/traits) | 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 | 
 | [Operators](./challenges/operators) | 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🚧 🚧 🚧 🚧 | 
-| [Higher-order Functions](./challenges/high-order-func) | 🔥 🔥 🔥 🔥 🚧 🚧 🚧 🚧 🚧 🚧 | 
+| [Higher-order Functions](./challenges/high-order-func) | 🔥 🔥 🔥 🔥 🔥 🚧 🚧 🚧 🚧 🚧 | 
 | Pattern Matching and Case Classes | 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧  | 
 | Futures| 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 |
 | Type paramaters | 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧 🚧  |  
