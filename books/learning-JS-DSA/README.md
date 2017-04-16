@@ -6,12 +6,12 @@
 
 *   🔥 DONE
 
-# PROGRESS 🚀 `[0/12]`
+# PROGRESS 🚀 `[2/12]`
 
 |   Topics                         |  Status |
 | :------------------------------- |  :----  |
-|  [Overview](./topics/overview)                        |  🔥     |
-|  Arrays                          |  🚧     |
+|  [Overview](./topics/overview)   |  🔥     |
+|  [Arrays](./topics/arrays)       |  🔥     |
 |  Stacks                          |  🚧     |
 |  Queues                          |  🚧     |
 |  Linked Lists                    |  🚧     |
