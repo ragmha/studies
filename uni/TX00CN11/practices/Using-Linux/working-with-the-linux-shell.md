@@ -25,5 +25,4 @@ clear # clears the screen
 ## 4 Move the current directory to the environment path variable for eg. the bin dir
 ## copy the file to bin dir and then type
 helloworld
-
 ```
