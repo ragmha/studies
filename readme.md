@@ -12,7 +12,7 @@
 
 | Topics  | Status |
 | :--- | :--- |
-| The Basics | 🚧 |
+| [The Basics](./solutions/the-basics) | 🔥 |
 | Control Structures & Functions | 🚧 |
 | Working with Arrays | 🚧 |
 | Maps and Tuples | 🚧 |
