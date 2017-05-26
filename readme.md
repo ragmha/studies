@@ -8,14 +8,14 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[3/21]`
+## PROGRESS 🚀 `[4/21]`
 
 | Topics  | Status |
 | :--- | :--- |
 | [The Basics](./solutions/the-basics) | 🔥 |
 | [Control Structures & Functions](./solutions/control-structures-and-functions) | 🔥 |
 | [Working with Arrays](./solutions/working-with-arrays) | 🔥 |
-| Maps and Tuples | 🚧 |
+| [Maps and Tuples](./solutions/maps-and-tuples) | 🔥 |
 | Classes | 🚧 |
 | Objects | 🚧 |
 | Packages and Imports | 🚧 |
