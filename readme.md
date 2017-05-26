@@ -8,7 +8,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[4/21]`
+## PROGRESS 🚀 `[5/21]`
 
 | Topics  | Status |
 | :--- | :--- |
@@ -16,7 +16,7 @@
 | [Control Structures & Functions](./solutions/control-structures-and-functions) | 🔥 |
 | [Working with Arrays](./solutions/working-with-arrays) | 🔥 |
 | [Maps and Tuples](./solutions/maps-and-tuples) | 🔥 |
-| Classes | 🚧 |
+| [Classes](./solutions/classes) | 🔥 |
 | Objects | 🚧 |
 | Packages and Imports | 🚧 |
 | Inheritance | 🚧 |
