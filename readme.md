@@ -8,13 +8,13 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[2/21]`
+## PROGRESS 🚀 `[3/21]`
 
 | Topics  | Status |
 | :--- | :--- |
 | [The Basics](./solutions/the-basics) | 🔥 |
 | [Control Structures & Functions](./solutions/control-structures-and-functions) | 🔥 |
-| Working with Arrays | 🚧 |
+| [Working with Arrays](./solutions/working-with-arrays) | 🔥 |
 | Maps and Tuples | 🚧 |
 | Classes | 🚧 |
 | Objects | 🚧 |
