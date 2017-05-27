@@ -8,7 +8,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[6/21]`
+## PROGRESS 🚀 `[7/21]`
 
 | Topics  | Status |
 | :--- | :--- |
@@ -19,7 +19,7 @@
 | [Classes](./solutions/classes) | 🔥 |
 | [Objects](./solutions/objects) | 🔥 |
 | Packages and Imports | 🚧 |
-| Inheritance | 🚧 |
+| [Inheritance](./solutions/inheritance) | 🔥 |
 | Files and Regular Expressions| 🚧 |
 | Traits | 🚧 |
 | Operators | 🚧 |
