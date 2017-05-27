@@ -8,7 +8,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[5/21]`
+## PROGRESS 🚀 `[6/21]`
 
 | Topics  | Status |
 | :--- | :--- |
@@ -17,7 +17,7 @@
 | [Working with Arrays](./solutions/working-with-arrays) | 🔥 |
 | [Maps and Tuples](./solutions/maps-and-tuples) | 🔥 |
 | [Classes](./solutions/classes) | 🔥 |
-| Objects | 🚧 |
+| [Objects](./solutions/objects) | 🔥 |
 | Packages and Imports | 🚧 |
 | Inheritance | 🚧 |
 | Files and Regular Expressions| 🚧 |
