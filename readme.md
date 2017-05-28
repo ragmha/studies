@@ -8,7 +8,7 @@
 *   🚧 - TODO..
 *   🔥 - DONE
 
-## PROGRESS 🚀 `[7/21]`
+## PROGRESS 🚀 `[8/21]`
 
 | Topics  | Status |
 | :--- | :--- |
@@ -23,7 +23,7 @@
 | Files and Regular Expressions| 🚧 |
 | Traits | 🚧 |
 | Operators | 🚧 |
-| Higher-order Functions | 🚧 |
+| Higher-order Functions | 🔥 |
 | Collections | 🚧 |
 | Pattern Matching and Case Classes | 🚧 |
 | Annotations | 🚧 |
