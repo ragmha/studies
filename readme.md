@@ -23,7 +23,7 @@
 | Files and Regular Expressions| 🚧 |
 | Traits | 🚧 |
 | Operators | 🚧 |
-| Higher-order Functions | 🔥 |
+| [Higher-order Functions](./solutions/high-order-func) | 🔥 |
 | Collections | 🚧 |
 | Pattern Matching and Case Classes | 🚧 |
 | Annotations | 🚧 |
