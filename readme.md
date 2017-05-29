@@ -5,9 +5,9 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[5/47]`
+## PROGRESS 🚀  `[6/47]`
 
-### BASICS  PROGRESS 🚀  `[5/16]`
+### BASICS  PROGRESS 🚀  `[6/16]`
 |    Units        | Status         |
 | :-------------  | :------------- |
 | [Reverse a String](./solutions/basics/reverse.js) | 🔥 |
@@ -15,7 +15,7 @@
 | [Check for Palindromes](./solutions/basics/palindromes.js) | 🔥 |
 | [Find the Longest Word in a String](./solutions/basics/longest.js) | 🔥 |
 | [Title Case a Sentence](./solutions/basics/title-case.js) | 🔥 |
-| Return Largest Numbers in Arrays | 🚧 |
+| [Return Largest Numbers in Arrays](./solutions/basics/largest-num.js) | 🔥 |
 | Confirm the Ending | 🚧 |
 | Repeat a string repeat a string | 🚧 |
 | Truncate a string | 🚧 |
