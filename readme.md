@@ -5,14 +5,14 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[1/47]`
+## PROGRESS 🚀  `[2/47]`
 
 ## BASICS
-### PROGRESS 🚀  `[1/16]`
+### PROGRESS 🚀  `[2/16]`
 |    Units        | Status         |
 | :-------------  | :------------- |
 | [Reverse a String](./solutions/basics/reverse.js) | 🔥 |
-| Factorialize a Number | 🚧 |
+| [Factorialize a Number](./solutions/basics/factorialize.js) | 🔥 |
 | Check for Palindromes | 🚧 |
 | Find the Longest Word in a String | 🚧 |
 | Title Case a Sentence | 🚧 |
