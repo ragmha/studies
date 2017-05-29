@@ -5,16 +5,16 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[4/47]`
+## PROGRESS 🚀  `[5/47]`
 
-### BASICS  PROGRESS 🚀  `[4/16]`
+### BASICS  PROGRESS 🚀  `[5/16]`
 |    Units        | Status         |
 | :-------------  | :------------- |
 | [Reverse a String](./solutions/basics/reverse.js) | 🔥 |
 | [Factorialize a Number](./solutions/basics/factorialize.js) | 🔥 |
 | [Check for Palindromes](./solutions/basics/palindromes.js) | 🔥 |
 | [Find the Longest Word in a String](./solutions/basics/longest.js) | 🔥 |
-| Title Case a Sentence | 🚧 |
+| [Title Case a Sentence](./solutions/basics/title-case.js) | 🔥 |
 | Return Largest Numbers in Arrays | 🚧 |
 | Confirm the Ending | 🚧 |
 | Repeat a string repeat a string | 🚧 |
