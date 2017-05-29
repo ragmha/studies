@@ -5,9 +5,9 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[9/47]`
+## PROGRESS 🚀  `[10/47]`
 
-### BASICS  PROGRESS 🚀  `[9/16]`
+### BASICS  PROGRESS 🚀  `[10/16]`
 |    Units        | Status         |
 | :-------------  | :------------- |
 | [Reverse a String](./solutions/basics/reverse.js) | 🔥 |
@@ -19,7 +19,7 @@
 | [Confirm the Ending](./solutions/basics/confirm-end.js)  | 🔥 |
 | [Repeat a string repeat a string](./solutions/basics/repeat-string.js) | 🔥 |
 | [Truncate a string](./solutions/basics/truncate.js) | 🔥 |
-| Chunky Monkey | 🚧 |
+| [Chunky Monkey](./solutions/basics/chunky-monkey.js) | 🔥 |
 | Slasher Flick | 🚧 |
 | Mutations | 🚧 |
 | Falsy Bouncer | 🚧 |
