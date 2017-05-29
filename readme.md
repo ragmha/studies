@@ -5,15 +5,14 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[2/47]`
+## PROGRESS 🚀  `[3/47]`
 
-## BASICS
-### PROGRESS 🚀  `[2/16]`
+### BASICS  PROGRESS 🚀  `[3/16]`
 |    Units        | Status         |
 | :-------------  | :------------- |
 | [Reverse a String](./solutions/basics/reverse.js) | 🔥 |
 | [Factorialize a Number](./solutions/basics/factorialize.js) | 🔥 |
-| Check for Palindromes | 🚧 |
+| [Check for Palindromes](./solutions/basics/palindromes.js) | 🔥 |
 | Find the Longest Word in a String | 🚧 |
 | Title Case a Sentence | 🚧 |
 | Return Largest Numbers in Arrays | 🚧 |
@@ -28,8 +27,7 @@
 | Where do I belong | 🚧 |
 | Caesars Cipher | 🚧  |
 
-## INTERMEDIATE
-### PROGRESS 🚀  `[-/21]`
+### INTERMEDIATE PROGRESS 🚀  `[-/21]`
 |    Units        |    Status  |
 | :-------------  | :------------- |
 | Sum All Numbers in a Range Complete | 🚧 |
@@ -54,8 +52,7 @@
 | Everything Be True Incomplete | 🚧 |
 | Arguments Optional Incomplete | 🚧 |
 
-## ADVANCED
-### PROGRESS 🚀 `[-/10]`
+### ADVANCED PROGRESS 🚀 `[-/10]`
 
 |    Units        |    Status  |
 | :-------------  | :------------- |
