@@ -6,12 +6,12 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀 `[1/50]`
+## PROGRESS 🚀 `[2/50]`
 
 |    ID        |    Title      |  Status|
 | :-------------  | :------------- | :------------|
 | 1	| [Multiples of 3 and 5](./solutions/multiples-3-5) | 🔥 |
-| 2	| Even Fibonacci numbers | 🚧 |
+| 2	| [Even Fibonacci numbers](./solutions/even-fibonacci-numbers) | 🔥 |
 | 3 |	Largest prime factor | 🚧 |
 | 4	| Largest palindrome product| 🚧 |
 | 5	|Smallest multiple| 🚧 |
