@@ -5,14 +5,13 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[-/47]`
----
+## PROGRESS 🚀  `[1/47]`
 
 ## BASICS
-### PROGRESS 🚀  `[-/16]`
+### PROGRESS 🚀  `[1/16]`
 |    Units        | Status         |
 | :-------------  | :------------- |
-| Reverse a String | 🚧 |
+| [Reverse a String](./solutions/basics/reverse.js) | 🔥 |
 | Factorialize a Number | 🚧 |
 | Check for Palindromes | 🚧 |
 | Find the Longest Word in a String | 🚧 |
@@ -29,7 +28,6 @@
 | Where do I belong | 🚧 |
 | Caesars Cipher | 🚧  |
 
----
 ## INTERMEDIATE
 ### PROGRESS 🚀  `[-/21]`
 |    Units        |    Status  |
@@ -56,7 +54,6 @@
 | Everything Be True Incomplete | 🚧 |
 | Arguments Optional Incomplete | 🚧 |
 
----
 ## ADVANCED
 ### PROGRESS 🚀 `[-/10]`
 
@@ -73,7 +70,6 @@
 |Map the Debris | 🚧 |
 |Pairwise| 🚧 |
 
----
 
 ## Reference
 [Free Code Camp](https://www.freecodecamp.com/)
