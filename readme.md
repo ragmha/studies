@@ -5,9 +5,9 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[11/47]`
+## PROGRESS 🚀  `[12/47]`
 
-### BASICS  PROGRESS 🚀  `[11/16]`
+### BASICS  PROGRESS 🚀  `[12/16]`
 |    Units        | Status         |
 | :-------------  | :------------- |
 | [Reverse a String](./solutions/basics/reverse.js) | 🔥 |
@@ -21,7 +21,7 @@
 | [Truncate a string](./solutions/basics/truncate.js) | 🔥 |
 | [Chunky Monkey](./solutions/basics/chunky-monkey.js) | 🔥 |
 | [Slasher Flick](./solutions/basics/slasher.js)  | 🔥 |
-| Mutations | 🚧 |
+| [Mutations](./solutions/basics/mutations.js) | 🔥 |
 | Falsy Bouncer | 🚧 |
 | Seek and Destroy | 🚧 |
 | Where do I belong | 🚧 |
