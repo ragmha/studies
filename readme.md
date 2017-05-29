@@ -5,9 +5,9 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[15/47]`
+## PROGRESS 🚀  `[16/47]`
 
-### BASICS  PROGRESS 🚀  `[15/16]`
+### BASICS  PROGRESS 🚀  `[16/16]`
 |    Units        | Status         |
 | :-------------  | :------------- |
 | [Reverse a String](./solutions/basics/reverse.js) | 🔥 |
@@ -25,7 +25,7 @@
 | [Falsy Bouncer](./solutions/basics/bouncer.js) | 🔥 |
 | [Seek and Destroy](./solutions/basics/destroyer.js) | 🔥 |
 | [Where do I belong](./solutions/basics/getIndexToIns.js) | 🔥 |
-| Caesars Cipher | 🚧  |
+| [Caesars Cipher](./solutions/basics/rot13.js) | 🔥  |
 
 ### INTERMEDIATE PROGRESS 🚀  `[-/21]`
 |    Units        |    Status  |
