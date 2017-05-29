@@ -5,9 +5,9 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[16/47]`
+## PROGRESS 🚀  `[17/47]`
 
-### BASICS  PROGRESS 🚀  `[16/16]`
+### BASICS  PROGRESS 🚀  `[17/16]`
 |    Units        | Status         |
 | :-------------  | :------------- |
 | [Reverse a String](./solutions/basics/reverse.js) | 🔥 |
@@ -27,10 +27,10 @@
 | [Where do I belong](./solutions/basics/getIndexToIns.js) | 🔥 |
 | [Caesars Cipher](./solutions/basics/rot13.js) | 🔥  |
 
-### INTERMEDIATE PROGRESS 🚀  `[-/21]`
+### INTERMEDIATE PROGRESS 🚀  `[1/21]`
 |    Units        |    Status  |
 | :-------------  | :------------- |
-| Sum All Numbers in a Range Complete | 🚧 |
+| [Sum All Numbers in a Range Complete](./solutions/intermediate/sumAll.js) | 🔥 |
 | Diff Two Arrays Complete | 🚧 |
 | Roman Numeral Converter Incomplete | 🚧 |
 | Wherefore art thou Incomplete | 🚧 |
