@@ -5,9 +5,9 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[8/47]`
+## PROGRESS 🚀  `[9/47]`
 
-### BASICS  PROGRESS 🚀  `[8/16]`
+### BASICS  PROGRESS 🚀  `[9/16]`
 |    Units        | Status         |
 | :-------------  | :------------- |
 | [Reverse a String](./solutions/basics/reverse.js) | 🔥 |
@@ -18,7 +18,7 @@
 | [Return Largest Numbers in Arrays](./solutions/basics/largest-num.js) | 🔥 |
 | [Confirm the Ending](./solutions/basics/confirm-end.js)  | 🔥 |
 | [Repeat a string repeat a string](./solutions/basics/repeat-string.js) | 🔥 |
-| Truncate a string | 🚧 |
+| [Truncate a string](./solutions/basics/truncate.js) | 🔥 |
 | Chunky Monkey | 🚧 |
 | Slasher Flick | 🚧 |
 | Mutations | 🚧 |
