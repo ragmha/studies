@@ -5,7 +5,7 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[20/47]`
+## PROGRESS 🚀  `[21/47]`
 
 ### BASICS  PROGRESS 🚀  `[16/16]`
 |    Units        | Status         |
@@ -27,30 +27,30 @@
 | [Where do I belong](./solutions/basics/getIndexToIns.js) | 🔥 |
 | [Caesars Cipher](./solutions/basics/rot13.js) | 🔥  |
 
-### INTERMEDIATE PROGRESS 🚀  `[4/21]`
+### INTERMEDIATE PROGRESS 🚀  `[5/21]`
 |    Units        |    Status  |
 | :-------------  | :------------- |
-| [Sum All Numbers in a Range Complete](./solutions/intermediate/sumAll.js) | 🔥 |
-| [Diff Two Arrays Complete](./solutions/intermediate/diffArray.js) | 🔥 |
-| [Roman Numeral Converter Incomplete](./solutions/intermediate/convertToRoman.js) | 🔥 |
-| [Wherefore art thou Incomplete](./solutions/intermediate/whatIsInAName.js)  | 🔥 |
-| Search and Replace Incomplete | 🚧 |
-| Pig Latin Incomplete | 🚧 |
-| DNA Pairing Incomplete | 🚧 |
-| Missing letters Incomplete | 🚧 |
-| Boo who Incomplete | 🚧 |
-| Sorted Union Incomplete | 🚧 |
-| Convert HTML Entities Incomplete | 🚧 |
-| Spinal Tap Case Incomplete | 🚧 |
-| Sum All Odd Fibonacci Numbers Incomplete | 🚧 |
-| Sum All Primes Incomplete | 🚧 |
-| Smallest Common Multiple Incomplete | 🚧 |
-| Finders Keepers Incomplete | 🚧 |
-| Drop it Incomplete | 🚧 |
-| Steamroller Incomplete | 🚧 |
-| Binary Agents Incomplete | 🚧 |
-| Everything Be True Incomplete | 🚧 |
-| Arguments Optional Incomplete | 🚧 |
+| [Sum All Numbers in a Range](./solutions/intermediate/sumAll.js) | 🔥 |
+| [Diff Two Arrays](./solutions/intermediate/diffArray.js) | 🔥 |
+| [Roman Numeral Converter](./solutions/intermediate/convertToRoman.js) | 🔥 |
+| [Wherefore art thou](./solutions/intermediate/whatIsInAName.js)  | 🔥 |
+| [Search and Replace](./solutions/intermediate/myReplace.js) | 🔥 |
+| Pig Latin | 🚧 |
+| DNA Pairing | 🚧 |
+| Missing letters | 🚧 |
+| Boo who | 🚧 |
+| Sorted Union | 🚧 |
+| Convert HTML Entities | 🚧 |
+| Spinal Tap Case | 🚧 |
+| Sum All Odd Fibonacci Numbers | 🚧 |
+| Sum All Primes | 🚧 |
+| Smallest Common Multiple | 🚧 |
+| Finders Keepers | 🚧 |
+| Drop it | 🚧 |
+| Steamroller | 🚧 |
+| Binary Agents | 🚧 |
+| Everything Be True | 🚧 |
+| Arguments Optional | 🚧 |
 
 ### ADVANCED PROGRESS 🚀 `[-/10]`
 
