@@ -5,7 +5,7 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[22/47]`
+## PROGRESS 🚀  `[23/47]`
 
 ### BASICS  PROGRESS 🚀  `[16/16]`
 |    Units        | Status         |
@@ -27,7 +27,7 @@
 | [Where do I belong](./solutions/basics/getIndexToIns.js) | 🔥 |
 | [Caesars Cipher](./solutions/basics/rot13.js) | 🔥  |
 
-### INTERMEDIATE PROGRESS 🚀  `[6/21]`
+### INTERMEDIATE PROGRESS 🚀  `[7/21]`
 |    Units        |    Status  |
 | :-------------  | :------------- |
 | [Sum All Numbers in a Range](./solutions/intermediate/sumAll.js) | 🔥 |
@@ -36,7 +36,7 @@
 | [Wherefore art thou](./solutions/intermediate/whatIsInAName.js)  | 🔥 |
 | [Search and Replace](./solutions/intermediate/myReplace.js) | 🔥 |
 | [Pig Latin](./solutions/intermediate/translatePigLatin.js) | 🔥 |
-| DNA Pairing | 🚧 |
+| [DNA Pairing](./solutions/intermediate/pairElement.js) | 🔥 |
 | Missing letters | 🚧 |
 | Boo who | 🚧 |
 | Sorted Union | 🚧 |
