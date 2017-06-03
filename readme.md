@@ -5,7 +5,7 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[29/47]`
+## PROGRESS 🚀  `[30/47]`
 
 ### BASICS  PROGRESS 🚀  `[16/16]`
 |    Units        | Status         |
@@ -27,7 +27,7 @@
 | [Where do I belong](./solutions/basics/getIndexToIns.js) | 🔥 |
 | [Caesars Cipher](./solutions/basics/rot13.js) | 🔥  |
 
-### INTERMEDIATE PROGRESS 🚀  `[13/21]`
+### INTERMEDIATE PROGRESS 🚀  `[14/21]`
 |    Units        |    Status  |
 | :-------------  | :------------- |
 | [Sum All Numbers in a Range](./solutions/intermediate/sumAll.js) | 🔥 |
@@ -43,7 +43,7 @@
 | [Convert HTML Entities](./solutions/intermediate/convertHTML.js) | 🔥 |
 | [Spinal Tap Case](./solutions/intermediate/spinalCase.js) | 🔥 |
 | [Sum All Odd Fibonacci Numbers](./solutions/intermediate/sumFibs.js) | 🔥 |
-| Sum All Primes | 🚧 |
+| [Sum All Primes](./solutions/intermediate/sumPrimes.js) | 🔥 |
 | Smallest Common Multiple | 🚧 |
 | Finders Keepers | 🚧 |
 | Drop it | 🚧 |

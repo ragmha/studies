@@ -18,22 +18,15 @@ Write your own code.
   * Array.prototype.push()
 */
 
-const primes = num => {
-	let arr = Array.from({ length: num + 1 }, (v, k) => k).slice(2);
-	return arr.filter(n => {
-		let m = n - 1;
-		while (m > 1 && m >= Math.sqrt(n)) {
-			if (n % m === 0) {
-				return false;
-				m--;
-			}
-			return true;
-		}
-	});
+const isPrime = num => {
+	for (let i = 2; i < num; i++) if (num % i === 0) return false;
+	return num !== 1;
 };
+
+const primes = num => [...Array(num + 1).keys()].filter(isPrime);
 
 const sumPrimes = num => primes(num).reduce((current, prev) => current + prev);
 
 // TEST
 sumPrimes(10); // => 17
-console.log(sumPrimes(977)); // => 73156
+sumPrimes(977); // => 73156
