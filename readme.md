@@ -56,7 +56,7 @@
 
 |    Units        |    Status  |
 | :-------------  | :------------- |
-|[Validate US Telephone Numbers](./solutions/intermediate/telephoneCheck.js) | 🔥 |
+|[Validate US Telephone Numbers](./solutions/advanced/telephoneCheck.js) | 🔥 |
 |Record Collection| 🚧 |
 |Symmetric Difference | 🚧 |
 |Exact Change | 🚧 |
