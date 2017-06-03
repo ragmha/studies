@@ -5,7 +5,7 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[36/47]`
+## PROGRESS 🚀  `[37/46]`
 
 ### BASICS  PROGRESS 🚀  `[16/16]`
 |    Units        | Status         |
@@ -27,7 +27,7 @@
 | [Where do I belong](./solutions/basics/getIndexToIns.js) | 🔥 |
 | [Caesars Cipher](./solutions/basics/rot13.js) | 🔥  |
 
-### INTERMEDIATE PROGRESS 🚀  `[20/21]`
+### INTERMEDIATE PROGRESS 🚀  `[21/21]`
 |    Units        |    Status  |
 | :-------------  | :------------- |
 | [Sum All Numbers in a Range](./solutions/intermediate/sumAll.js) | 🔥 |
@@ -50,9 +50,9 @@
 | [Steamroller](./solutions/intermediate/steamrollArray.js) | 🔥 |
 | [Binary Agents](./solutions/intermediate/binaryAgent.js) | 🔥 |
 | [Everything Be True](./solutions/intermediate/truthCheck.js) | 🔥 |
-| Arguments Optional | 🚧 |
+| [Arguments Optional](./solutions/intermediate/addTogether.js) | 🔥 |
 
-### ADVANCED PROGRESS 🚀 `[-/10]`
+### ADVANCED PROGRESS 🚀 `[-/9]`
 
 |    Units        |    Status  |
 | :-------------  | :------------- |
@@ -62,7 +62,6 @@
 |Exact Change | 🚧 |
 |Inventory Update | 🚧 |
 |No repeats please | 🚧 |
-|Friendly Date Ranges | 🚧 |
 |Make a Person | 🚧 |
 |Map the Debris | 🚧 |
 |Pairwise| 🚧 |
