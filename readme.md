@@ -5,7 +5,7 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[35/47]`
+## PROGRESS 🚀  `[36/47]`
 
 ### BASICS  PROGRESS 🚀  `[16/16]`
 |    Units        | Status         |
@@ -27,7 +27,7 @@
 | [Where do I belong](./solutions/basics/getIndexToIns.js) | 🔥 |
 | [Caesars Cipher](./solutions/basics/rot13.js) | 🔥  |
 
-### INTERMEDIATE PROGRESS 🚀  `[19/21]`
+### INTERMEDIATE PROGRESS 🚀  `[20/21]`
 |    Units        |    Status  |
 | :-------------  | :------------- |
 | [Sum All Numbers in a Range](./solutions/intermediate/sumAll.js) | 🔥 |
@@ -49,7 +49,7 @@
 | [Drop it](./solutions/intermediate/dropElements.js) | 🔥 |
 | [Steamroller](./solutions/intermediate/steamrollArray.js) | 🔥 |
 | [Binary Agents](./solutions/intermediate/binaryAgent.js) | 🔥 |
-| Everything Be True | 🚧 |
+| [Everything Be True](./solutions/intermediate/truthCheck.js) | 🔥 |
 | Arguments Optional | 🚧 |
 
 ### ADVANCED PROGRESS 🚀 `[-/10]`
