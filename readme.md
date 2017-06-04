@@ -14,7 +14,7 @@
 | 2	| [Even Fibonacci numbers](./solutions/even-fibonacci-numbers) | 🔥 |
 | 3 |	[Largest prime factor](./solutions/largest-prime-factor) | 🔥 |
 | 4	| [Largest palindrome product](./solutions/largest-palindrome-product)| 🔥 |
-| 5	|[Smallest multiple](./smallest-multiple)| 🔥 |
+| 5	|[Smallest multiple](./solutions/smallest-multiple)| 🔥 |
 | 6	|Sum square difference| 🚧 |
 | 7	|10001st prime| 🚧 |
 | 8	|Largest product in a series| 🚧 |
