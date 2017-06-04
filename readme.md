@@ -5,7 +5,7 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[42/46]`
+## PROGRESS 🚀  `[43/46]`
 
 ### BASICS  PROGRESS 🚀  `[16/16]`
 |    Units        | Status         |
@@ -52,7 +52,7 @@
 | [Everything Be True](./solutions/intermediate/truthCheck.js) | 🔥 |
 | [Arguments Optional](./solutions/intermediate/addTogether.js) | 🔥 |
 
-### ADVANCED PROGRESS 🚀 `[5/9]`
+### ADVANCED PROGRESS 🚀 `[6/9]`
 
 |    Units        |    Status  |
 | :-------------  | :------------- |
@@ -61,7 +61,7 @@
 |[Symmetric Difference](./solutions/advanced/sym.js) | 🔥 |
 |[Exact Change](./solutions/advanced/checkCashRegister.js) | 🔥 |
 |[Inventory Update](./solutions/advanced/updateInventory.js) | 🔥 |
-|No repeats please | 🚧 |
+|[No repeats please](./solutions/advanced/permAlone.js) | 🔥 |
 |Make a Person | 🚧 |
 |Map the Debris | 🚧 |
 |Pairwise| 🚧 |
