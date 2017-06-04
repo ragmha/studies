@@ -6,7 +6,26 @@
 ---
 <details>
   <summary> 🔮 BASICS (<strong>16</strong>)</summary>
-  <p>* [Reverse a String](./solutions/basics/reverse.js)* [Factorialize a Number](./solutions/basics/factorialize.js)* [Check for Palindromes](./solutions/basics/palindromes.js)* [Find the Longest Word in a String](./solutions/basics/longest.js)* [Title Case a Sentence](./solutions/basics/title-case.js)* [Return Largest Numbers in Arrays](./solutions/basics/largest-num.js)* [Confirm the Ending](./solutions/basics/confirm-end.js) * [Repeat a string repeat a string](./solutions/basics/repeat-string.js)* [Truncate a string](./solutions/basics/truncate.js)* [Chunky Monkey](./solutions/basics/chunky-monkey.js)* [Slasher Flick](./solutions/basics/slasher.js) * [Mutations](./solutions/basics/mutations.js)* [Falsy Bouncer](./solutions/basics/bouncer.js)* [Seek and Destroy](./solutions/basics/destroyer.js)* [Where do I belong](./solutions/basics/getIndexToIns.js)* [Caesars Cipher](./solutions/basics/rot13.js)</p>
+  <p>
+
+  * [Reverse a String](./solutions/basics/reverse.js)
+  * [Factorialize a Number](./solutions/basics/factorialize.js)
+  * [Check for Palindromes](./solutions/basics/palindromes.js)
+  * [Find the Longest Word in a String](./solutions/basics/longest.js)
+  * [Title Case a Sentence](./solutions/basics/title-case.js)
+  * [Return Largest Numbers in Arrays](./solutions/basics/largest-num.js)
+  * [Confirm the Ending](./solutions/basics/confirm-end.js)
+  * [Repeat a string repeat a string](./solutions/basics/repeat-string.js)
+  * [Truncate a string](./solutions/basics/truncate.js)
+  * [Chunky Monkey](./solutions/basics/chunky-monkey.js)
+  * [Slasher Flick](./solutions/basics/slasher.js)
+  * [Mutations](./solutions/basics/mutations.js)
+  * [Falsy Bouncer](./solutions/basics/bouncer.js)
+  * [Seek and Destroy](./solutions/basics/destroyer.js)
+  * [Where do I belong](./solutions/basics/getIndexToIns.js)
+  * [Caesars Cipher](./solutions/basics/rot13.js)
+
+  </p>
 </details>
 
 ---
