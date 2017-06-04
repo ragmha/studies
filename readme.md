@@ -5,7 +5,7 @@
 * 🚧 TODO..
 * 🔥 DONE
 
-## PROGRESS 🚀  `[40/46]`
+## PROGRESS 🚀  `[41/46]`
 
 ### BASICS  PROGRESS 🚀  `[16/16]`
 |    Units        | Status         |
@@ -52,14 +52,14 @@
 | [Everything Be True](./solutions/intermediate/truthCheck.js) | 🔥 |
 | [Arguments Optional](./solutions/intermediate/addTogether.js) | 🔥 |
 
-### ADVANCED PROGRESS 🚀 `[3/9]`
+### ADVANCED PROGRESS 🚀 `[4/9]`
 
 |    Units        |    Status  |
 | :-------------  | :------------- |
 |[Validate US Telephone Numbers](./solutions/advanced/telephoneCheck.js) | 🔥 |
 |[Record Collection](./solutions/advanced/updateRecords.js)| 🔥 |
 |[Symmetric Difference](./solutions/advanced/sym.js) | 🔥 |
-|Exact Change | 🚧 |
+|[Exact Change](./solutions/advanced/checkCashRegister.js) | 🔥 |
 |Inventory Update | 🚧 |
 |No repeats please | 🚧 |
 |Make a Person | 🚧 |
