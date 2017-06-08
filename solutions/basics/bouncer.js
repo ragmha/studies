@@ -14,10 +14,12 @@
  * Array.prototype.filter()
 */
 
-const bouncer = arr => arr.filter(a => Boolean(a));
+const bouncer = arr => arr.filter(Boolean);
+
+module.exports = bouncer;
 
 // TEST
-bouncer([7, 'ate', '', false, 9]); // => [7, "ate", 9].
-bouncer(['a', 'b', 'c']); // => ["a", "b", "c"].
-bouncer([false, null, 0, NaN, undefined, '']); // => [].
+bouncer([7, "ate", "", false, 9]); // => [7, "ate", 9].
+bouncer(["a", "b", "c"]); // => ["a", "b", "c"].
+bouncer([false, null, 0, NaN, undefined, ""]); // => [].
 bouncer([1, null, NaN, 2, undefined]); // => [1, 2].
