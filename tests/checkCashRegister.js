@@ -1,7 +1,6 @@
 const assert = require("assert");
 const checkCashRegister = require("../lib/checkCashRegister");
 
-// TEST
 describe("#checkCashRegister", () => {
   it("should return an array", () =>
     assert.deepEqual(
