@@ -1,8 +1,8 @@
 const assert = require("assert");
 const bouncer = require("../lib/bouncer");
 
-describe("#Bouncer()", function() {
-  it("should return true values", function() {
+describe("#Bouncer()", () => {
+  it("should return true values", () => {
     assert.deepEqual(bouncer([7, "ate", "", false, 9]), [7, "ate", 9]);
 
     assert.deepEqual(bouncer(["a", "b", "c"]), ["a", "b", "c"]);
