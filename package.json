@@ -1,0 +1,15 @@
+{
+  "name": "fcc-algorithms",
+  "scripts": {
+    "test": "mocha tests/ --colors --recursive  --reporter progress",
+    "test:watch": "mocha tests/ --watch --colors --recursive --reporter progress"
+  },
+  "dependencies": {
+    "mocha": "^3.4.2"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ragmha/fcc-algorithms.git",
+  "author": "Raghib Hasan <raghibmidhat@gmail.com> (http://raghibm.com/)",
+  "license": "MIT"
+}
