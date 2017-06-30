@@ -1,7 +1,7 @@
 const assert = require("assert");
 const binaryAgent = require("../lib/binaryAgent");
 
-describe("#binaryAgent()", function() {
+describe("#binaryAgent()", () => {
   it("should return Aren't bonfires fun!?", function() {
     assert.equal(
       binaryAgent(
@@ -11,7 +11,7 @@ describe("#binaryAgent()", function() {
     );
   });
 
-  it("should return I love FreeCodeCamp!", function() {
+  it("should return I love FreeCodeCamp!", () => {
     assert.equal(
       binaryAgent(
         "01001001 00100000 01101100 01101111 01110110 01100101 00100000 01000110 01110010 01100101 01100101 01000011 01101111 01100100 01100101 01000011 01100001 01101101 01110000 00100001"
