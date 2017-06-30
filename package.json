@@ -2,7 +2,7 @@
   "name": "fcc-algorithms",
   "scripts": {
     "test": "mocha tests/ --colors --recursive  --reporter progress",
-    "test:watch": "mocha tests/ --watch --colors --recursive --reporter progress"
+    "test:watch": "mocha tests/ --watch --colors --recursive "
   },
   "dependencies": {
     "mocha": "^3.4.2"
