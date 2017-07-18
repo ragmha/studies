@@ -8,7 +8,7 @@
 
 | Name              |  Language  | Status             |
 | ------------------| ---------- |  ------------------|
-| List              | JavaScript |  🚧 |
+| [List](./List)    | JavaScript |  🔥 |
 | HashTable         | JavaScript |  🚧 |
 | Stack             | JavaScript |  🚧 |
 | Queue             | JavaScript |  🚧 |
