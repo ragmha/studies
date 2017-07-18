@@ -68,17 +68,3 @@ class List {
     return value;
   }
 }
-
-const l = new List();
-
-l.push(1);
-l.push(2);
-l.push(3);
-l.push(4);
-console.log(l);
-l.pop();
-console.log(l);
-l.unshift("meow");
-console.log(l);
-l.shift();
-console.log(l);
