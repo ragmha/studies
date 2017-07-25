@@ -1,3 +1,0 @@
-// INTRODUCTION
-
-console.log('hello');
