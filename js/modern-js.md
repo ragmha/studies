@@ -260,6 +260,34 @@ obj.method() // => ["raghib@facebook.com", "don@facebook.com", "jack@facebook.co
 --------------------------------------------------------------------------------
 
 ## Template Strings
+> Template Strings are using the back tick symbol for multi-line strings and string interpolation
+
+
+#### Example 1
+
+```javascript
+let myData = {
+    data: 'hello'
+}
+
+let template = `
+    <div>
+        ${ myData.data }
+    </div>
+`
+
+template /* =>
+     <div>
+      hello
+    </div>
+*/
+```
+
+### What are Template Strings?
+Template strings are the use of the back-tick symbol (`) to open and close a multi-line string. Template strings also allow for string interpolation using the ${ data } syntax
+
+### Why are they valuable?
+With ES5, the way we had to create template strings was by concatenating a large number of strings together and to spend time organizing our various quotes and plus signs.
 
 **[⬆ back to top](#table-of-contents)**
 
