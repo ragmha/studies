@@ -10,7 +10,7 @@
 
 ## Modern JavaScript Features
 
-## ES5 - Getters/ Setters
+## Getters/ Setters
 
 #### Example 1 
 ```javascript
@@ -80,7 +80,7 @@ obj.lastName; // => Savage
 
 **[⬆ back to top](#table-of-contents)**
 
-## ES5 - Object.keys
+## Object.keys
 
 > Converting the keys of an object to an array
 
@@ -134,6 +134,82 @@ Object.keys is a function on the Object constructor that takes in an object and 
 
 ### Why is it valuable ?
 Array's have far more useful helper methods and by using Object.keys instead of traditional `for(var key in obj)` syntax it is much easier to chain transformational methods to the object in the same way we would do with an array
+
+## Var, Let & Const
+> ES5 `var` is not block scoped can have unexpected behavior. `let` & `const` are block scoped to fix this.
+
+#### Example 1
+
+```javascript
+
+// ES5 var 
+var str = "hi"
+
+if (true) {
+    var str = "bye";
+}
+
+str; // => "bye"
+
+
+// ES6 let
+let str1 = "hi"
+
+if (true) {
+    let str = "bye";
+}
+
+str;// => "hi"
+
+
+// ES6 const
+const str2 = "hi";
+
+if (true) {
+    str2 = "bye";
+}
+
+str2; //=> error: "hi" is read-only 
+
+```
+
+
+#### Example 2
+
+```javascript
+
+var day = "today";
+
+if (true) {
+	var day = "tommorow";
+	
+}
+
+day // => tommorow
+
+
+// Hoisting process
+
+var day = undefined;
+day = "today"
+day = "tommrow"
+
+day // => tommorow
+
+```
+
+### What are the `let` & `const` keywords ?
+
+* `let` is just like `var` except it is blocked scoped, which prevents variables from being hoisted to the top of our scope during javascript declaration, which is what occurs with `var` keyword.
+
+* `const` is just like `let` except for it cannot be reassigned after it has been intialized with a value. It is also block scoped.
+
+
+## Why is it useful?
+
+* Blocked scoped variables declarations behave similar to most other languages. when using ES2015 you should always use `let`and `const` instead of `var`;
+
+
 
 
 **[⬆ back to top](#table-of-contents)**
