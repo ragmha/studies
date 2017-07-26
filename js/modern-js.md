@@ -508,9 +508,31 @@ export var matchedProp = "someValue";
 
 --------------------------------------------------------------------------------
 ## TypeScript
+> Super set of JavaScript
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Intro
+
+### Example
+
+```typescript
+    var name: string = "john"; // => explicitly defining a type of string
+    var age: number = 23;
+    var flag: boolean = false;
+
+    name = false; // => type boolean is not assignable of type string
+
+
+    const log = (item: string): string => {
+        return item;
+    }
+
+    log(2) // => arugmnet of type number is not assignable of type string
+    log("hello") // => works! hello
+
+    const names: Array<string> = [] // or  const names: string[] = []
+```
 **[⬆ back to top](#table-of-contents)**
 
 ## Interfaces
