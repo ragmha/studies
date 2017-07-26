@@ -69,8 +69,6 @@ obj.lastName; // => Savage
 
 ```
 
-
-
 * `get` - is a property that enables us to dynamically retrieve the value of properties based on the internal state of the object.
 
 * `set` - is the opposite and enables us to dynamically set the state of an internal property of an object.
@@ -80,6 +78,8 @@ obj.lastName; // => Savage
  Getters and Setters allow us to dynamically generate properties based on the current state of the object and to dynamically modify the values of an objects properties by setting them.
 
 **[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
 
 ## Object.keys
 
@@ -138,6 +138,7 @@ Array's have far more useful helper methods and by using Object.keys instead of 
 
 **[⬆ back to top](#table-of-contents)**
 
+--------------------------------------------------------------------------------
 
 ## Var, Let & Const
 > ES5 `var` is not block scoped can have unexpected behavior. `let` & `const` are block scoped to fix this.
@@ -177,7 +178,6 @@ str2; //=> error: "hi" is read-only
 
 ```
 
-
 #### Example 2
 
 ```javascript
@@ -214,6 +214,8 @@ day // => tommorow
 * Blocked scoped variables declarations behave similar to most other languages. when using ES2015 you should always use `let`and `const` instead of `var`;
 
 **[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
 
 ## Arrow Functions
 > Maintaining parent object scope in callback functions.
@@ -255,21 +257,113 @@ obj.method() // => ["raghib@facebook.com", "don@facebook.com", "jack@facebook.co
 
 **[⬆ back to top](#table-of-contents)**
 
+--------------------------------------------------------------------------------
 
+## Template Strings
 
+**[⬆ back to top](#table-of-contents)**
 
+--------------------------------------------------------------------------------
 
+## Destructuring
+
+**[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
+
+## Rest Parameters
+
+**[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
+
+## Spread Operator
+
+**[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
+
+## Enhanced Object Literals
+
+**[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
+
+## Classes
+
+**[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
+
+## Modules
+
+**[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
 ## TypeScript
 **[⬆ back to top](#table-of-contents)**
+
+## Intro
+**[⬆ back to top](#table-of-contents)**
+
+## Interfaces
+**[⬆ back to top](#table-of-contents)**
+
+## Classes
+**[⬆ back to top](#table-of-contents)**
+
+## Decorators
+**[⬆ back to top](#table-of-contents)**
+
+## Static Properties
+**[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
 
 ## Browserless JavaScript with Node.js
 **[⬆ back to top](#table-of-contents)**
 
+## Introduction
+**[⬆ back to top](#table-of-contents)**
+
+## NPM
+**[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
+
 ## JavaScript Async Flow Control
 **[⬆ back to top](#table-of-contents)**
 
+## Promises
+**[⬆ back to top](#table-of-contents)**
+
+## Observable-intro
+**[⬆ back to top](#table-of-contents)**
+
+## Observable-example
+**[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
+
 ## Webpack
 **[⬆ back to top](#table-of-contents)**
+
+## Introduction
+**[⬆ back to top](#table-of-contents)**
+
+## Config
+**[⬆ back to top](#table-of-contents)**
+
+## Dev-Server
+**[⬆ back to top](#table-of-contents)**
+
+## Loaders
+**[⬆ back to top](#table-of-contents)**
+
+## Plugins
+**[⬆ back to top](#table-of-contents)**
+
+--------------------------------------------------------------------------------
 
 ## 🔍 Reference
 [Modern JavaScript](http://courses.angularclass.com/courses/84542/lectures/1223851)
