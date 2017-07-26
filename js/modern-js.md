@@ -687,6 +687,51 @@ class Grid {
 **[⬆ back to top](#table-of-contents)**
 
 ## NPM
+> psst use Yarn
+
+> NPM, node package manager, is a registry for JavaScript packages that allows us to download our Node.js dependencies locally using a CLI. One of the benefits of Node.js is not having to download our dependencies from a CDN each time we start our app. NPM provides us with a registry that we’re able to find packages for anything JavaScript which includes frameworks, utilities, polyfills, or even other package managers.
+
+### npm install
+In Node.js, we load our JavaScript dependencies using require() and providing the name of our package require('underscore'). This will load the corresponding package and return the value from that package. These packages are installed the thenode_modules/ folder. Here are a couple of examples. 
+```javascript
+npm install underscore 
+npm install lodash
+```
+
+### node_modules/
+The folder for our JavaScript dependencies that Node.js looks inside to load our packages when we use require().
+
+### package.json
+A .json file that Node.js reads to understand which script to run by looking for the path provided by the main field.
+
+### npm init
+NPM provides us with a command in their CLI initialize a package.json for when want to create our own packages for Node.js
+
+### NPM scripts
+NPM also provides us with scripts object within package.json that it will run within our terminal. This is great when creating simple common tasks that we run a lot during development of our package. For example, we use the npm run followed by the task. 
+```javascript
+npm run build 
+npm run test 
+npm run deploy
+```
+
+### dependencies and devDependencies
+dependencies are always downloading for our package. devDependencies are only installed when we’re developing our package so this is where we install any build tooling our testing tools. If we use --save or --save-dev we can save our packages without our package.json 
+```javascript
+npm install underscore --save 
+npm install lodash --save-dev
+```
+
+### npm install --global for CLI
+NPM also allows us to install packages globally which is often used for interacting with other CLI’s written in JavaScript. Examples of these are test runners or build tools 
+```javascript
+npm install --global gulp-cli 
+npm install --global trash-cli 
+npm install --global karma-cli
+```
+
+### npm uninstall and npm uninstall --global
+NPM also allows us to uninstall packages which we may use more so with --global but we can also provide --save or --save-dev to remove the package from ourpackage.json
 **[⬆ back to top](#table-of-contents)**
 
 --------------------------------------------------------------------------------
