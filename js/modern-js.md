@@ -10,7 +10,7 @@
 
 ## Modern JavaScript Features
 
-### ES5 - Getters/ Setters
+## ES5 - Getters/ Setters
 
 #### Example 1 
 ```javascript
@@ -74,11 +74,66 @@ obj.lastName; // => Savage
 
 * `set` - is the opposite and enables us to dynamically set the state of an internal property of an object.
 
-#### Why are they valuable ?
+### Why are they valuable ?
 
  Getters and Setters allow us to dynamically generate properties based on the current state of the object and to dynamically modify the values of an objects properties by setting them.
 
+**[⬆ back to top](#table-of-contents)**
 
+## ES5 - Object.keys
+
+> Converting the keys of an object to an array
+
+#### Example 1
+
+```javascript
+let dictionary = {
+	"yolo" : "what you say before doing something crazy",
+	"gg": "good game, also used sarcastically when you win",
+	"swag": "swag swag"
+};
+
+let keys = Object.keys(dictionary);
+
+let upperKeys = keys.map(key => key.toUpperCase());
+
+upperKeys; // => ["YOLO", "GG", "SWAG"]
+
+```
+
+#### Example 2
+
+```javascript
+let obj = {
+	"one" : 1,
+	"two" : 2,
+	"three" : 3
+}
+
+// Traditional Way
+
+/*
+for (var key in obj) {
+	if (obj.hasOwnProperty(key)) {
+		console.log(obj[key]);
+	}
+}
+*/
+
+
+let keys = Object.keys(obj);
+
+let timesTwo = keys.map(key => obj[key] * 2);
+
+timesTwo; // => [2, 4, 6]
+
+```
+
+### What it does ?
+Object.keys is a function on the Object constructor that takes in an object and outputs that object into an array
+
+### Why is it valuable ?
+Array's have far more useful helper methods and by using Object.keys instead of traditional `for(var key in obj)` syntax it is much easier to chain transformational methods to the object in the same way we would do with an array
 
 
 **[⬆ back to top](#table-of-contents)**
