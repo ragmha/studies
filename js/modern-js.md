@@ -382,7 +382,36 @@ function printArguments(...args) {
 --------------------------------------------------------------------------------
 
 ## Spread Operator
+> Spread operators are conceptually the opposite of rest parameters. Enables dynamic expansion of an expression
 
+### Example1
+
+```javascript
+// ES6
+let nums = [1, 2, 3];
+
+function addEverything(x, y, z) {
+    return x + y + z;
+}
+
+let val = addEverything(...nums);
+
+val; // => 6
+
+
+// ES5
+var nums = [1, 2, 3];
+
+function addEverything(x, y, z) {
+    return x + y + z;
+}
+
+var val = addEverything.apply(this, nums);
+
+val; // => 6
+
+
+```
 
 **[⬆ back to top](#table-of-contents)**
 
