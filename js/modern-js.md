@@ -480,6 +480,29 @@ app.method(); /* =>
 --------------------------------------------------------------------------------
 
 ## Modules
+> Modules allow code sharing between javascript files
+
+### Example1
+
+```javascript
+// require files
+import something from "framework";
+
+import * as something from "framework";
+
+import {matchedProp} from "framework";
+
+// expose values
+export default function something {}
+
+export var value = "value";
+export var another = "value2";
+
+export var matchedProp = "someValue";
+
+```
+
+### Example2
 
 **[⬆ back to top](#table-of-contents)**
 
