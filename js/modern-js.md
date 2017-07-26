@@ -418,6 +418,18 @@ val; // => 6
 --------------------------------------------------------------------------------
 
 ## Enhanced Object Literals
+> Syntatical sugar for dynamic property generation in object literals.
+
+### Example1
+```javascript
+let obj = {
+    handler() {
+      ["prop_" + 42] : "life"  
+    }
+};
+
+obj.prop_42; // => life
+```
 
 **[⬆ back to top](#table-of-contents)**
 
