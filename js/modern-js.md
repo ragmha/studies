@@ -365,7 +365,6 @@ function printArguments(...args) {
 }
 ```
 
-### Example 2
 
 
 ## Difference between rest parameters and the arugment object
@@ -436,6 +435,45 @@ obj.prop_42; // => life
 --------------------------------------------------------------------------------
 
 ## Classes
+> Syntatical sugar over JS existing prototype-based inheritance.
+
+#### Example1
+
+```javascript
+// ES6
+class App {
+    constructor() {
+        console.log("hello");
+    }
+
+    method() {
+        console.log("method called");
+    }
+}
+
+var app = new App();
+app.method(); /* =>
+    "hello"
+    "method called"
+*/
+
+// ES5
+function App() {
+    console.log("hello");
+}
+
+App.prototype.method = function() {
+    console.log("method called");
+}
+
+var app = new App();
+app.method(); /* =>
+    "hello"
+    "method called"
+*/
+
+
+```
 
 **[⬆ back to top](#table-of-contents)**
 
