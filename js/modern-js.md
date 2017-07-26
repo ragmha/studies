@@ -657,6 +657,24 @@ new Person(); /* =>
 **[⬆ back to top](#table-of-contents)**
 
 ## Static Properties
+> It's possible to create static members of a class, those that are visible on the class itself rather than on the instances, it is used prepending this, infront of instant accesses.
+
+## Example
+```typescript
+class Grid {
+    static origin = { x: 0, y: 0};
+
+    calculateDistanceFromOrigin(point: {x: number, y: number}) {
+        let xDist = {point.x - Grid.origin.x};
+        let yDist = {point.y - Grid.origin.y};
+        return Math.sqrt(xDist * xDist + yDist * yDist) / this.scale;
+    }
+
+    constructor(public scale: number) {}
+}
+```
+
+
 **[⬆ back to top](#table-of-contents)**
 
 --------------------------------------------------------------------------------
