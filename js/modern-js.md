@@ -536,6 +536,29 @@ export var matchedProp = "someValue";
 **[⬆ back to top](#table-of-contents)**
 
 ## Interfaces
+> Type checking focusing on the shape that values have. Sometimes known as "duck typing" or "structural subtyping"
+
+* Creating a blue-print for object
+
+### Example
+
+```typescript
+interface BakedGood {
+    sugar: number;
+    name: string;
+    bake(mins: number): string;
+    icing?: boolean; // => optional
+}
+
+const cake: BakeGood = {
+    sugar : 23,
+    name: "Chery Cake",
+    bake(mins: number) {
+        return `will be done in ${mins}`;
+    }
+}
+```
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Classes
