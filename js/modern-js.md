@@ -584,11 +584,76 @@ class Car implements Vehicle {
     }
 
 }
-
 ```
 **[⬆ back to top](#table-of-contents)**
 
 ## Decorators
+> Function that decorates a target(class, method, parameter, accessor(get/set))
+
+### Example1
+
+```typescript
+function clean(value: boolean) {
+    return function(target) {
+        target.clean = value;
+    }
+}
+
+@clean(true)
+class Animal {
+
+}
+
+```
+
+### Example2
+
+```typescript
+// Normal
+const person = { name : "raghib"};
+
+function addAge(age) {
+    return function(person) {
+        return {
+            age,
+            name: person.name
+        }
+    }
+}
+
+// We decorated the new Person with age
+const newPerson = addAge(20)(person);
+
+newPerson; /* => 
+    {
+    age: 20,
+    name: "raghib"
+    }
+*/
+
+
+// Using Decorators
+function addAge(age) {
+    return function(targetClass) {
+        return class {
+            name = new targetClass().name;
+            age = age;
+        }
+    }
+}
+
+@addAge(20)
+class Person {
+    name = "Raghib";
+}
+
+new Person(); /* => 
+    {
+    age: 20,
+    name: "raghib"
+    }
+*/
+```
 **[⬆ back to top](#table-of-contents)**
 
 ## Static Properties
