@@ -562,6 +562,30 @@ const cake: BakeGood = {
 **[⬆ back to top](#table-of-contents)**
 
 ## Classes
+
+### Example
+
+```typescript
+
+interface Vehicle {
+    make: string;
+    year: number;
+    type: string;
+    go(): void;
+}
+class Car implements Vehicle {
+    type: string = " ";
+
+    constructor(public make: string, public year: number) {
+    }
+
+    go(): void {
+
+    }
+
+}
+
+```
 **[⬆ back to top](#table-of-contents)**
 
 ## Decorators
