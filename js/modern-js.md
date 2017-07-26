@@ -11,6 +11,8 @@
 ## Modern JavaScript Features
 
 ## Getters/ Setters
+> Getters and Setters are psudo-properties that return or set a dynamically computed value
+
 
 #### Example 1 
 ```javascript
@@ -68,7 +70,6 @@ obj.lastName; // => Savage
 ```
 
 
-> Getters and Setters are psudo-properties that return or set a dynamically computed value
 
 * `get` - is a property that enables us to dynamically retrieve the value of properties based on the internal state of the object.
 
@@ -134,6 +135,9 @@ Object.keys is a function on the Object constructor that takes in an object and 
 
 ### Why is it valuable ?
 Array's have far more useful helper methods and by using Object.keys instead of traditional `for(var key in obj)` syntax it is much easier to chain transformational methods to the object in the same way we would do with an array
+
+**[⬆ back to top](#table-of-contents)**
+
 
 ## Var, Let & Const
 > ES5 `var` is not block scoped can have unexpected behavior. `let` & `const` are block scoped to fix this.
@@ -209,10 +213,51 @@ day // => tommorow
 
 * Blocked scoped variables declarations behave similar to most other languages. when using ES2015 you should always use `let`and `const` instead of `var`;
 
+**[⬆ back to top](#table-of-contents)**
+
+## Arrow Functions
+> Maintaining parent object scope in callback functions.
 
 
+#### Example 
+
+```javascript
+// ES5
+var object = {
+    collection: ["raghib", "don", "jack" ],
+    domain: "facebook.com",
+    method: function method() {
+        var mapEmail = function (item) {
+            return item + "@" + this.domain;
+        }.bind(this);
+
+        return this.collection.map(mapEmail)
+    }
+}
+
+obj.method() // => ["raghib@facebook.com", "don@facebook.com", "jack@facebook.com"]
+
+// ES6
+let object = {
+    collection: ["raghib", "don", "jack" ],
+    domain: "facebook.com",
+    method() {
+        return this.collection.map(item => `${item}@${this.domain}`);
+    }
+}
+
+obj.method() // => ["raghib@facebook.com", "don@facebook.com", "jack@facebook.com"]
+
+
+```
+
+* Solution of losing parent scope to use .bind(this) on callback function / create a copy of `this`and reference the copy inside the callback function
 
 **[⬆ back to top](#table-of-contents)**
+
+
+
+
 
 ## TypeScript
 **[⬆ back to top](#table-of-contents)**
