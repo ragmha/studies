@@ -335,12 +335,54 @@ In Modern Libraries and Frameworks, it is common in import statements to pluck s
 --------------------------------------------------------------------------------
 
 ## Rest Parameters
+> If the last named argument is prefixed with `...`, the argument collects itself and all consecutive arguments.
+
+### Example 1
+```javascript
+// ES5
+printArguments (1, 2, 3) /* => 
+    arguments: 1
+    arguments: 2
+    arguments: 3
+*/
+
+function printArguments() {
+    var args = [].slice.call(arguments, 0);
+    args.forEach(function(arg) {
+        console.log("arguments:", arg);
+    });
+}
+
+// ES6
+printArguments (1, 2, 3) /* => 
+    rest args: 1
+    rest args: 2
+    rest args: 3
+*/
+
+function printArguments(...args) {
+    args.forEach(arg => console.log("rest args:" , args));
+}
+```
+
+### Example 2
+
+
+## Difference between rest parameters and the arugment object
+
+1. rest parameters are only the ones that haven't been given a seperate name, while the arguments object contain all arguments passed to the function.
+
+2. the arguments object is not a real array, while rest parameters are Array instances, meaning methods like sort, map, forEach or pop can be applied directly on it.
+
+3. the arguments object has additional functionality specific to itself (like callee property)
+
 
 **[⬆ back to top](#table-of-contents)**
 
 --------------------------------------------------------------------------------
 
 ## Spread Operator
+
 
 **[⬆ back to top](#table-of-contents)**
 
