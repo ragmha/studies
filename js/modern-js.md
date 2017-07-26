@@ -294,6 +294,41 @@ With ES5, the way we had to create template strings was by concatenating a large
 --------------------------------------------------------------------------------
 
 ## Destructuring
+> Destructuring is a way to pluck properties off of a data structure and assign them to distinct variables
+
+#### Example 1
+```javascript
+
+let prism = {
+    l: 5,
+    w: 8
+}
+
+function rectPrismArea({l, w, h = 10}) {
+    return l * w * h;
+}
+
+rectPrismArea(prism); // => 400
+
+```
+
+### What is Destructuring ?
+
+You can destructure a data structure by referencing an object's property names inside the curly braces
+
+```javascript
+let object = { "a" : 1, "b" : 2 };
+
+let {a , b} = object;
+
+a; // => 1
+
+b; // => 2
+```
+
+### Why is it valuable ?
+
+In Modern Libraries and Frameworks, it is common in import statements to pluck specific modules from an exported file
 
 **[⬆ back to top](#table-of-contents)**
 
