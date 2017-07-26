@@ -683,6 +683,7 @@ class Grid {
 **[⬆ back to top](#table-of-contents)**
 
 ## Introduction
+> Using Node.js, without the use of DOM with the help of NPM package which allows us to run JavaScript locally in our node.js environment.
 **[⬆ back to top](#table-of-contents)**
 
 ## NPM
