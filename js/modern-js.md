@@ -952,6 +952,8 @@ obs
 --------------------------------------------------------------------------------
 
 ## Webpack
+
+## Introduction
 > Allows us to combine all our packages and aplication code into one file. Starting from our entry file provided webpack is able to read all of it's dependencies to combine them all into one file
 
 * You can easily bundle your javascript using webpack CLI
@@ -960,10 +962,41 @@ webpack app.js app.bundle.js
 ```
 **[⬆ back to top](#table-of-contents)**
 
-## Introduction
-**[⬆ back to top](#table-of-contents)**
 
 ## Config
+> If we want to change the way our webpack bundle works, we need to create  `webpack.config.js` file. We can provide a configuration file that will allow us to overwrite or change how our modules are bundled and loaded. We can use this rather than adding flags to the webpack CLI.
+
+
+## Example
+```javascript
+module.exports = {
+  entry: './app.js',
+  output: {
+    path: './dist',
+    filename: 'app.bundle.js'
+  }
+};
+
+```
+
+
+## Provide a different output.filename
+We can change the output.filename which changes the name of the file produced.
+
+## Provide a different output.path
+We can change the output.path which is the location places your bundle after processing it.
+
+## Entry file is the location of the file which is bundled with it’s dependencies
+Entry files have dependencies that are required into that file which is now being bundled together.
+
+## Multiple entry points by providing an object
+We can provide an object, rather than a string for one entry, for multiple entry points where the key is the name of the entry and the value is the file location.
+
+## Dynamic filename with [name]
+We can provide a dynamic name of our output.filename by using [name] where the name is the name of our entry file.
+
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Dev-Server
