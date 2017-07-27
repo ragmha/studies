@@ -995,11 +995,55 @@ We can provide an object, rather than a string for one entry, for multiple entry
 ## Dynamic filename with [name]
 We can provide a dynamic name of our output.filename by using [name] where the name is the name of our entry file.
 
-
-
 **[⬆ back to top](#table-of-contents)**
 
 ## Dev-Server
+> Use --watch in the CLI to rebuild our bundle
+We can have the webpack CLI watch our files for changes to rebundle using --watch. Doing so allows us to avoid having to manually run the build command in our terminal.
+
+## Example
+```javascript
+// webpack.config.js
+
+module.exports = {
+  entry: './app.js',
+  output: {
+    path: './dist',
+    filename: 'app.bundle.js'
+  }
+};
+	
+// app.js
+
+var instructors = ['PatrickJS', 'Scott Moss', 'Mike Adams'];
+instructors.map(function(person) {
+  console.log('Hello', person);
+});
+	
+index.html
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AngularClass</title>
+</head>
+<body>
+  <main>Hello World</main>
+  <script src="dist/app.bundle.js"></script>
+</body>
+</html>
+```
+
+## Webpack also provides a development server aswebpack-dev-server
+This server will act as a simple static server with the benefit of rebuilding out bundles in-memory rather than bundling them to our output location. Rebuilding our files in-memory will increase rebuild times during development where we may change our files many times.
+
+## Use --output-public-path for our dev-server to output the files in the correct location
+If we don’t specify a public path location the dev-server will default it’s location to the root. We can provide output.publicPath value in our config file or --output-public-path from the CLI
+
+## We can use --inline to insert an inline script that will live reload our page
+Providing --inline in our CLI we can tell our dev-server to include a script that will connect our client with the server that will tell the browser to reload after bundling.
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Loaders
