@@ -947,17 +947,17 @@ obs
 > `.debounceTime()` is a great operator that allows us to delay receiving values down our chain. It's common pattern to manage or limit the values that go through the chain.
 
 
-
-
-
-
-
-
 **[⬆ back to top](#table-of-contents)**
 
 --------------------------------------------------------------------------------
 
 ## Webpack
+> Allows us to combine all our packages and aplication code into one file. Starting from our entry file provided webpack is able to read all of it's dependencies to combine them all into one file
+
+* You can easily bundle your javascript using webpack CLI
+```javscript
+webpack app.js app.bundle.js
+```
 **[⬆ back to top](#table-of-contents)**
 
 ## Introduction
