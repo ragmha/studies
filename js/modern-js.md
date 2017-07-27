@@ -1047,6 +1047,76 @@ Providing --inline in our CLI we can tell our dev-server to include a script tha
 **[⬆ back to top](#table-of-contents)**
 
 ## Loaders
+> Introduce a `loader` to read our `index.html` using the `raw-loader` package
+Webpack allows us to overload the module system used within our application in order to provide more value or create new features that wasn’t initially provided to us before.
+
+## Example 1
+```javascript
+// webpack.config
+module.exports = {
+  entry: './app.js',
+  output: {
+    path: './dist',
+    filename: 'app.bundle.js'
+  }
+};
+
+// After loader
+// webpack.config
+module.exports = {
+  entry: './app.js',
+  module: {
+    loaders: [
+      { test: /\.html/, loader: 'raw-loader' }
+    ]
+  },
+  output: {
+    path: './dist',
+    filename: 'app.bundle.js'
+  }
+};
+
+```
+
+## Example2
+```javascript
+// Add more loaders
+// webpack.config
+
+var options = {
+  search 'Hello World',
+  replace: 'Hello Webpack'
+};
+module.exports = {
+  entry: './app.js',
+  module: {
+    loaders: [
+      {
+        test: /\.html/,
+        loaders: [
+          'raw-loader',
+          'string-replace-loader?' + JSON.stringify(options)
+        ]
+      }
+    ]
+  },
+  output: {
+    path: './dist',
+    filename: 'app.bundle.js'
+  }
+};
+```
+
+## Loader config object takes a test and loadervalue
+test is a RegExp that is ran on the values required by the module system within our app. If the test is true then our loader will run on that file to transform.
+
+## We can provide options to a loader by adding a query string to it
+We can provide options to any loader with '?' + JSON.stringify(options) where the options is an object of options provided by the corresponding loader.
+
+## Multiple loaders can be added by using an array
+We can run multiple loaders on a file by changing loader to loaders and provide an array of loaders
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Plugins
