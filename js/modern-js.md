@@ -740,6 +740,129 @@ NPM also allows us to uninstall packages which we may use more so with --global 
 **[⬆ back to top](#table-of-contents)**
 
 ## Promises
+> Allows us to pass around a chain of asynchronous tasks that will be fired off as soon as the promise is created. We use Promises a better way to deal with writing async flow control compared to callback style. Doing so allows us to reason what is happening withint our codebase by isolating logic that starts off asynchronous operations
+
+### Example
+```javascript
+
+// Test
+
+function done() {
+  console.log('I have all the titles', '\n');
+}
+getRandomSpaceTitle(function(data) {
+  console.log('Space Tilte: ', data, '\n')
+})
+getRandomCatTitle(function(data) {
+  console.log('Cat Tilte: ', data, '\n')
+})
+getRandomKittenTitle(function(data) {
+  console.log('Kitten Tilte: ', data, '\n')
+})
+done();
+
+// callback style
+function getRandomSpaceTitle(callback) {
+  getTitle('space')
+    .then(json => {
+      callback(json)
+    });
+}
+function getRandomCatTitle(callback) {
+  getTitle('cat')
+    .then(json => {
+      callback(json)
+    });
+}
+function getRandomKittenTitle(callback) {
+  getTitle('kitten')
+    .then(json => {
+      callback(json)
+    });
+}
+getRandomSpaceTitle(data => {
+  console.log(`Space Ttile: ${data}`);
+
+  getRandomCatTitle(data => {
+    console.log(`Cat Title: ${data}`);
+
+    getRandomKittenTitle(data => {
+      console.log(`Kitten Title: ${data}`);
+      done();
+    });
+  });
+});
+
+// Promises
+
+function getRandomSpaceTitlePromise() {
+  return getTitle("space");
+}
+
+function getRandomCatTitlePromise() {
+  return getTitle("cat");
+}
+
+function getRandomKittenTitlePromise() {
+  return getTitle("kitten");
+}
+
+// Test
+
+getRandomSpaceTitlePromise()
+  .then(data => {
+    console.log(`Space Ttile Promise: ${data}`);
+    return getRandomCatTitlePromise();
+  })
+  .then(data => {
+    console.log(`Cat Ttile Promise: ${data}`);
+    return getRandomKittenTitlePromise();
+  })
+  .then(data => {
+    console.log(`Kitten Ttile Promise: ${data}`);
+    done();
+  });
+
+function getTitle(title) {
+  let uri = `https://www.reddit.com/r/${title}.json`;
+  return fetch(uri)
+    .then(res => res.json())
+    .then(json => json.data.children)
+    .then(posts => posts.map(post => post.data.title))
+    .then(json => {
+      let len = json.length;
+      let randomIndex = Math.floor(Math.random() * len);
+      return json[randomIndex];
+    });
+}
+
+
+```
+
+
+## Callback style flow control
+Callback style is great only for one level compared to nested callbacks. Trying to understand what is available to us within a callback can be challenging with we're more than one callback deep
+
+## Working with promises to convert a callback style to promise
+A promise object simply has a `.then` that we can invoke with our callback. You can think of a promise like a gift wrapped present that is opened once we reached a certain time or event. We can only open the present once to get it's value. The `.then()`callbacks are actions that we fire off after the initial promise is resolved (in our analofy our present is resolved once we reached a certain date.)
+
+## Returning a promise to create a promise chain
+The best feature of promises are the chains we can create. We create a promise chain by simply invoking `.then()` and providing a callback. We can also return another promise that needs to be resolved before counting down our promise chain.
+
+## Catching errors throwin in promise with `.catch()`
+Catching error is another great aspect of promises because it give us a standard way of interacting with errors. If we include a `.catch` in the middle of our promise chain then any errors thrown before it will be caught. We can now choose to rethrow to continue the next `.catch` call or handle the error and pass a value that will continue the chain.
+
+## How to return `Promise.reject()` to pass the error down the pipeline
+We can also return other values rather than using throw by returning a wrapped value with `Promise.reject()`
+
+## Running Promises in parallel with `Promise.all()`
+We can also fire off many async tasks and wait until they are all done before running another task. Composing promises are great because `Promise.all()` also returns another promise.
+
+## Create our own promise with `new Promise()`
+We can create our own promise to wrap other async interfaces or any custom asynchronous tasks that we want to create a standard way of interacting with. 
+
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Observable-intro
