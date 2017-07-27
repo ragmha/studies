@@ -913,6 +913,46 @@ It shows us how values are being produced over time
 **[⬆ back to top](#table-of-contents)**
 
 ## Observable-example
+> We can use `Observable` to wrap async events that happen more than once compared to `Promises`. The composition of `Observables` are a great way to declare how we way our async data flow to be without having to deal manage it ourselves.
+
+## Example
+
+```javascript
+let $ = document.querySelector.bind(document);
+
+let myInput = $("input");
+
+let obs = Rx.Observable.fromEvent(myInput, 'input');
+
+// Collection of event typed over time
+//obs.subscribe(e => console.log(e.target.value));
+
+
+// Easily chaining transfromation to our observable
+obs
+  .debounceTime(400)
+	.map(e => e.target.value)
+  .map(value => `myInput: ${value}`)
+	.subscribe(value => console.log(value));
+
+```
+
+## Convert an input field to an `Observable` using `fromEvent`
+> An input field is a great example of values that happen over time. When a user types in values we're able to convert the `input` event that is emitted by the element into an `Observable` when we're able to perform operations on it's values.
+
+## Operate over values using `.map()`
+> `Observable` also allows for operators to on values that were emitted. We can change the shape of these values and return them into our chain.
+
+## Debounce over `Observable` chain using `.debounceTime()`
+> `.debounceTime()` is a great operator that allows us to delay receiving values down our chain. It's common pattern to manage or limit the values that go through the chain.
+
+
+
+
+
+
+
+
 **[⬆ back to top](#table-of-contents)**
 
 --------------------------------------------------------------------------------
