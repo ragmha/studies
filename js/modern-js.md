@@ -732,12 +732,12 @@ npm install --global karma-cli
 
 ### npm uninstall and npm uninstall --global
 NPM also allows us to uninstall packages which we may use more so with --global but we can also provide --save or --save-dev to remove the package from ourpackage.json
+
 **[⬆ back to top](#table-of-contents)**
 
 --------------------------------------------------------------------------------
 
 ## JavaScript Async Flow Control
-**[⬆ back to top](#table-of-contents)**
 
 ## Promises
 > Allows us to pass around a chain of asynchronous tasks that will be fired off as soon as the promise is created. We use Promises a better way to deal with writing async flow control compared to callback style. Doing so allows us to reason what is happening withint our codebase by isolating logic that starts off asynchronous operations
@@ -839,7 +839,6 @@ function getTitle(title) {
 
 ```
 
-
 ## Callback style flow control
 Callback style is great only for one level compared to nested callbacks. Trying to understand what is available to us within a callback can be challenging with we're more than one callback deep
 
@@ -861,11 +860,56 @@ We can also fire off many async tasks and wait until they are all done before ru
 ## Create our own promise with `new Promise()`
 We can create our own promise to wrap other async interfaces or any custom asynchronous tasks that we want to create a standard way of interacting with. 
 
-
-
 **[⬆ back to top](#table-of-contents)**
 
 ## Observable-intro
+> An `Observable` is like `Promise` that resolves many times. It's an object that emits values depening on what is producing values. 
+
+## Example
+
+```javascript
+
+// Simple Array
+
+let arr = [1, 2, 3, 4, 5];
+
+// Invoking a function for Each values in array
+arr.forEach(num => console.log(`My arr num is: ${num}`));
+
+
+
+// Observable
+
+// Collection over time (converts an array to an array of events)
+let arr1 = Rx.Observable.from([1, 2, 3, 4, 5]);
+
+// Subscribe(similar to forEach) to the event 
+arr1.subscribe(num => console.log(`My arr1 num is: ${num}`));
+
+
+// Observable-Interval
+
+// Creating an interval of its own event
+let arr2 = Rx.Observable.interval(1);
+
+// Subscribe(similar to forEach) to the event 
+arr2.subscribe(num => console.log(`My arr2 num is: ${num}`))
+
+```
+
+From the above example we converted an array to produce it's values one after the other using `Observable.from` as well as created an interval `Observable` that will produce a value every 500 miliseconds.
+
+
+## Looping through an Array
+We can simple loop over an array using `.forEach` to do something for each of it's value
+
+## Convert an array of values into a stream of values with an `Observable`
+Think `Observable` as an array of values that we can perform operations on. Rather than an array providing all of it's value immediately, an `Observable`only provides the next value when it's available.
+
+## An internal `Observable` emits events every 500 miliseconds
+It shows us how values are being produced over time
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Observable-example
