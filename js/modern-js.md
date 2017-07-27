@@ -1087,6 +1087,7 @@ var options = {
   search 'Hello World',
   replace: 'Hello Webpack'
 };
+
 module.exports = {
   entry: './app.js',
   module: {
@@ -1120,6 +1121,43 @@ We can run multiple loaders on a file by changing loader to loaders and provide 
 **[⬆ back to top](#table-of-contents)**
 
 ## Plugins
+> Plugins allow us to transform our codebase at a global level. We can provide plugins to our webpack config via plugins which takes an array of plugin instances.
+
+## Example
+
+```javascript
+// webpack.config
+module.exports = {
+  entry: './app.js',
+  output: {
+    path: './dist',
+    filename: 'app.bundle.js'
+  }
+};
+	
+// after plugin
+// webpack.config
+
+module.exports = {
+  entry: './app.js',
+  output: {
+    path: './dist',
+    filename: 'app.bundle.js'
+  },
+  plugins: [
+    new webpack.optimize.UglifyJsPlugin()
+  ]
+};
+
+```
+
+## Include UglifyJsPlugin to minify our code
+We’re able to minify our codebase by using a plugin provided to us by webpack as new webpack.optimize.UglifyJsPlugin()
+
+## Include DefinePlugin
+Include another plugin new webpack.DefinePlugin({}) to work together with uglify for dead code elimination.
+
+
 **[⬆ back to top](#table-of-contents)**
 
 --------------------------------------------------------------------------------
