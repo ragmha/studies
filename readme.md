@@ -6,11 +6,11 @@
 
 *   🔥 DONE
 
-# PROGRESS 🚀 `[1/57]`
+# PROGRESS 🚀 `[3/57]`
 
 |    Units        |    Topics      |  Status |
 | :-------------  | :------------- | :--------------- |
-| Program Structure | <li>[Looping a triangle](./challenges/looping-a-triangle.js)</li><br><li>[FizzBuzz](./challenges/fizzBuzz.js)</li><br> <li>ChessBoard</li> |  🔥   🚧   🚧 |
+| Program Structure | <li>[Looping a triangle](./challenges/looping-a-triangle.js)</li><br><li>[FizzBuzz](./challenges/fizzBuzz.js)</li><br> <li>[ChessBoard](./challenges/chessBoard.js)</li> |  🔥   🔥   🔥 |
 | Functions | <li>Minimum</li><br><li>Recursion</li><br> <li>Bean counting</li> |  🚧   🚧   🚧 |
 | Data Structures: Objects and Arrays | <li>The sum of a range</li><br><li>Reversing an array</li><br><li>A list</li><br><li>Deep comparison</li> | 🚧   🚧   🚧   🚧 |
 | High-Order Functions | <li>Flattening</li><br><li>Mother-child age difference</li><br><li>Historic life expectancy</li><br><li>Every and then some</li> | 🚧   🚧   🚧   🚧 |
