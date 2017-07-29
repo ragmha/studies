@@ -2,7 +2,6 @@
 
 function every(array, predicate) {
   for (let i = 0; i < array.length; i++) {
-    console.log(array[i]);
     if (!predicate(array[i])) return false;
   }
   return true;
@@ -10,7 +9,6 @@ function every(array, predicate) {
 
 function some(array, predicate) {
   for (let i = 0; i < array.length; i++) {
-    console.log(array[i]);
     if (predicate(array[i])) return true;
   }
   return false;
