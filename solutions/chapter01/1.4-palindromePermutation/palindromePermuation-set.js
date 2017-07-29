@@ -9,11 +9,13 @@ const palindromePermuation = str => {
 
   for (const letter of str) {
     if (letter !== " ") {
-      if (letterMap.has(letter)) letter.delete(letter);
+      if (letterMap.has(letter)) letterMap.delete(letter);
       else letterMap.add(letter);
     }
   }
   return letterMap.size <= 1;
 };
 
-console.log(palindromePermuation("Tact Coa"), "true");
+palindromePermuation("Tact Coa"); // => true
+
+palindromePermuation("Tact boa"); // =>  false
