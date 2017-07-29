@@ -12,7 +12,7 @@
 | :-------------  | :------------- | :--------------- |
 | Program Structure | <li>[Looping a triangle](./challenges/looping-a-triangle.js)</li><br><li>[FizzBuzz](./challenges/fizzBuzz.js)</li><br> <li>[ChessBoard](./challenges/chessBoard.js)</li> |  🔥   🔥   🔥 |
 | Functions | <li>[Minimum](./challenges/minimum.js)</li><br><li>[Recursion](./challenges/recursion.js)</li><br> <li>[Bean counting](./challenges/beanCounting.js)</li> |  🔥   🔥   🔥 |
-| Data Structures: Objects and Arrays | <li>[The sum of a range](./challenges/sumRange.js)</li><br><li>[Reversing an array](./challenges/reverseArray.js)</li><br><li>A list</li><br><li>Deep comparison</li> | 🔥   🔥   🚧   🚧 |
+| Data Structures: Objects and Arrays | <li>[The sum of a range](./challenges/sumRange.js)</li><br><li>[Reversing an array](./challenges/reverseArray.js)</li><br><li>[A list](./challenges/list.js)</li><br><li>Deep comparison</li> | 🔥   🔥   🔥   🚧 |
 | High-Order Functions | <li>Flattening</li><br><li>Mother-child age difference</li><br><li>Historic life expectancy</li><br><li>Every and then some</li> | 🚧   🚧   🚧   🚧 |
 | The Secret Life of Objects | <li>A vector type</li><br><li>Another cell</li><br><li>Sequence interface</li> |  🚧   🚧   🚧 |
 | Project: Electronic Life | <li>Artificial stupidity</li><br><li>Predators</li> |  🚧   🚧 |
