@@ -6,7 +6,7 @@
 
 *   🔥 DONE
 
-# PROGRESS 🚀 `[16/57]`
+# PROGRESS 🚀 `[17/57]`
 
 |    Units        |    Topics      |  Status |
 | :-------------  | :------------- | :--------------- |
@@ -14,7 +14,7 @@
 | Functions | <li>[Minimum](./challenges/minimum.js)</li><br><li>[Recursion](./challenges/recursion.js)</li><br> <li>[Bean counting](./challenges/beanCounting.js)</li> |  🔥   🔥   🔥 |
 | Data Structures: Objects and Arrays | <li>[The sum of a range](./challenges/sumRange.js)</li><br><li>[Reversing an array](./challenges/reverseArray.js)</li><br><li>[A list](./challenges/list.js)</li><br><li>[Deep comparison](./challenges/deepComparison.js)</li> | 🔥   🔥   🔥   🔥 |
 | High-Order Functions | <li>[Flattening](./challenges/flattening.js)</li><br><li>[Mother-child age difference](./challenges/ageDifference.js)</li><br><li>[Historic life expectancy](./challenges/lifeExpectancy.js)</li><br><li>[Every and then some](./challenges/everyThensome.js)</li> | 🔥   🔥   🔥   🔥 |
-| The Secret Life of Objects | <li>[A vector type](./challenges/vectorType.js)</li><br><li>[Another cell](./challenges/anotherCell.js)</li><br><li>Sequence interface</li> |  🔥   🔥   🚧 |
+| The Secret Life of Objects | <li>[A vector type](./challenges/vectorType.js)</li><br><li>[Another cell](./challenges/anotherCell.js)</li><br><li>[Sequence interface](./challenges/sequenceInterface.js)</li> |  🔥   🔥   🔥 |
 | Project: Electronic Life | <li>Artificial stupidity</li><br><li>Predators</li> |  🚧   🚧 |
 | Bugs and Error Handling | <li>Retry</li><br><li>The locked box</li> |  🚧   🚧 |
 | Regular Expressions | <li>Regexp golf</li><br><li>Quoting style</li><br><li>Numbers again</li> | 🚧 🚧 🚧 |
