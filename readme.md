@@ -4,7 +4,7 @@
 
 * C++
 
-* Java
+* [Java](./java)
 
 
 ## License
