@@ -7,14 +7,15 @@
 
 * `DONE` - 🔥
 
-## PROGRESS 🚀 [1/-]
+## PROGRESS 🚀 [2/-]
 
 |  Exercises      |     Status     |
 | :-------------  | :------------- |
-| [Compose](./compose/index.js) | 🔥 |
-| Curry           |     🚧         |
-
-
+| [Compose](./solutions/compose/index.js) | 🔥 |
+| [Curry](./solutions/curry/index.js) | 🔥 |
+| Applicative | 🚧 |
+| Functors | 🚧 |
+| Monads | 🚧 |
 
 ## License
 [MIT](./license) © [Raghib Hasan](http://raghibm.com/)
