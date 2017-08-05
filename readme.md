@@ -4,7 +4,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [6/11]
+## PROGRESS 🚀 [7/12]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -18,7 +18,7 @@
 | [Add Elements onto an Array with push](./practices/push.js) | 🚧 |
 | [Another push eg](./practices/push2) | 🚧 |
 | [Modify Values in an Array with Map](./practices/map.js) | 🚧 |
-| [Validate Data with the Every() Method](./practices/every.js) | 🚧 |
+| [Validate Data with the Every() Method](./practices/every.js) | 🔥 |
 | [Produce a single value from an Array with reduce](./practices/reduce.js) | 🔥 |
 
 
