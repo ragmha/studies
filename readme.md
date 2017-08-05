@@ -4,7 +4,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [4/11]
+## PROGRESS 🚀 [5/11]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -12,7 +12,7 @@
 | [Combine Values of an Array into a String with Join](./practices/join.js) | 🔥 |
 | [Check if a Value is in an Array with indexOf](./practices/indexOf.js) | 🔥 |
 | [Create a Shallow Copy of an Array with Slice](./practices/slice.js) | 🔥 |
-| [Sort an Array Alphabetically or Numerically](./practices/sort.js) | 🚧 |
+| [Sort an Array Alphabetically or Numerically](./practices/sort.js) | 🔥 |
 | [Filter an Array with Truthy Values](./practices/filter.js) | 🚧 |
 | [Use Some as a Ternary Operator or Conditional](./practices/some.js) | 🚧 |
 | [Add Elements onto an Array with push](./practices/push.js) | 🚧 |
