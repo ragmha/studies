@@ -5,11 +5,11 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [0/16]
+## PROGRESS 🚀 [1/16]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
-| [Arrow Function => in ES6](./practices/arrow-functions.js) | 🚧 |
+| [Arrow Function => in ES6](./practices/arrow-functions.js) | 🔥 |
 | [The let keyword in ES6](./practices/let.js) | 🚧 |
 | [Default Values for Function Parameters in ES6](./practices/default-parameters.js) | 🚧 |
 | [const Declarations in es6 (ES2015)](./practices/const.js) | 🚧 |
