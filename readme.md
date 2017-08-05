@@ -5,7 +5,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [15/16]
+## PROGRESS 🚀 [16/16]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -24,7 +24,7 @@
 | [ES6 Generators](./practices/generators.js) | 🔥 |
 | [Maps and WeakMaps with ES6](./practices/Maps.js) | 🔥 |
 | [ES6 Parameter Object Destructuring with Required Values](./practices/destructuring-require.js) | 🔥 |
-| [ES6 Rest Parameters](./practices/rest.js) | 🚧 |
+| [ES6 Rest Parameters](./practices/rest.js) | 🔥 |
 
 ## License
 [MIT](./license) © [Raghib Hasan](http://raghibm.com/)
