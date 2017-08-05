@@ -5,12 +5,12 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [1/9]
+## PROGRESS 🚀 [2/9]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
 | [The Array forEach method](./practices/forEach.js) | 🔥 |
-| [The Array map method](./practices/map.js) | 🚧 |
+| [The Array map method](./practices/map.js) | 🔥 |
 | [The Array filter method](./practices/filter.js) | 🚧 |
 | [Chaining the Array map and filter methods](./practices/chain.js) | 🚧 |
 | [Create an Array concatAll method](./practices/concatAll.js) | 🚧 |
