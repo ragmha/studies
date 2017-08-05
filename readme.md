@@ -5,11 +5,11 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [0/29]
+## PROGRESS 🚀 [1/29]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
-| [Create linear data flow with container style types (Box)](./practices/linear-data-flow.js) | 🚧 |
+| [Create linear data flow with container style types (Box)](./practices/linear-data-flow.js) | 🔥 |
 | Refactor imperative code to a single composed expression using Box | 🚧 |
 | Enforce a null check with composable code branching using Either| 🚧 |
 | Use chain for composable error handling with nested Eithers| 🚧 |
