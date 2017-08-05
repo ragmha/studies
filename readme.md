@@ -6,14 +6,14 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [1/-]
+## PROGRESS 🚀 [2/-]
 
 ## ![JS](./js-logo.png)
 
 |    Course       |    Status  |
 | :-------------  | :------------- |
 | [Learn ES6 (ECMAScript 2015)](https://github.com/ragmha/eH-learn-es6) | 🔥 |
-| [Understand JavaScript Arrays]() | 🚧 |
+| [Understand JavaScript Arrays](https://github.com/ragmha/eH-understanding-arrays) | 🔥 |
 | [Reduce Data with Javascript Array#reduce]() | 🚧 |
 | [Asynchronous Programming: The End of The Loop]() | 🚧 |
 | [Professor Frisby Introduces Composable Functional JavaScript]() | 🚧 |
