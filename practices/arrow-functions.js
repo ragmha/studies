@@ -1,17 +1,17 @@
 // Arrow Functions => in ES6
 
 // 1
-var createGreeting = function(message, name) {
+const createGreeting = function(message, name) {
   return message + name;
 };
 
-var arrowGreeting = (message, name) => message + name;
+const arrowGreeting = (message, name) => message + name;
 
 createGreeting('Hi ', 'Raghib'); // => Hi Raghib
 arrowGreeting('Hi ', 'Green arrow'); // => Hi Green arrow
 
 // 2
-var deliveryBoy = {
+const deliveryBoy = {
   name: 'Raghib',
 
   handleMessage: (message, handler) => {
