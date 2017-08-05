@@ -5,7 +5,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [6/16]
+## PROGRESS 🚀 [7/16]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -15,7 +15,7 @@
 | [const Declarations in ES6](./practices/const.js) | 🔥 |
 | [Shorthand Properties in ES6](./practices/shortHand-props.js) | 🔥 |
 | [Object Enhancements in ES6](./practices/enhancements.js) | 🔥 |
-| [Using the ES6 spread operator](./practices/spread.js) | 🚧 |
+| [Using the ES6 spread operator](./practices/spread.js) | 🔥 |
 | [String Templates in ES6](./practices/string-templates.js) | 🚧 |
 | [Destructuring Assignment in ES6](./practices/destructuring.js) | 🚧 |
 | [ES6 Modules - Import and Export](./practices/es6-modules) | 🚧 |
