@@ -5,7 +5,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [6/8]
+## PROGRESS 🚀 [7/8]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -15,7 +15,7 @@
 | [Advanced Reduce: Additional Reducer Arguments](./practices/additional-reducerArgs.js) | 🔥 |
 | [Advanced Reduce: Common Mistakes](./practices/common-mistakes.js) | 🔥 |
 | [Advanced Reduce: Flatten, Flatmap and ReduceRight](./practices/flatten-flatmap-reduceRight.js) | 🔥 |
-| [Advanced Reduce: Composing Functions with Reduce](./practices/composing-func-reduce.js) | 🚧 |
+| [Advanced Reduce: Composing Functions with Reduce](./practices/composing-func-reduce.js) | 🔥 |
 | [Advanced Reduce: Safe Nested Object Inspection](./practices/safe-nestedObj-inspect.js) | 🚧 |
 
 
