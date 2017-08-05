@@ -5,14 +5,14 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [3/16]
+## PROGRESS 🚀 [4/16]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
 | [Arrow Function => in ES6](./practices/arrow-functions.js) | 🔥 |
 | [The let keyword in ES6](./practices/let.js) | 🔥 |
 | [Default Values for Function Parameters in ES6](./practices/default-parameters.js) | 🔥 |
-| [const Declarations in es6 (ES2015)](./practices/const.js) | 🚧 |
+| [const Declarations in es6 (ES2015)](./practices/const.js) | 🔥 |
 | [Shorthand Properties in ES6](./practices/shortHand-props.js) | 🚧 |
 | [Object Enhancements in ES6](./practices/enhancements.js) | 🚧 |
 | [Using the ES6 spread operator](./practices/spread.js) | 🚧 |
