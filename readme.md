@@ -5,13 +5,13 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [2/8]
+## PROGRESS 🚀 [3/8]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
 | [Introducing Reduce: Transforming Arrays Functionally](./practices/intro-reduce-transformArr-func.js) | 🔥 |
 | [Introducing Reduce: Reducing an Array into an Object](./practices/reduce-arr-obj.js) | 🔥 |
-| [Introducing Reduce: Common Patterns](./practices/common-patterns.js) | 🚧 |
+| [Introducing Reduce: Common Patterns](./practices/common-patterns.js) | 🔥 |
 | [Advanced Reduce: Additional Reducer Arguments](./practices/additional-reducerArgs.js) | 🚧 |
 | [Advanced Reduce: Common Mistakes](./practices/common-mistakes.js) | 🚧 |
 | [Advanced Reduce: Flatten, Flatmap and ReduceRight](./practices/flatten-flatmap-reduceRight.js) | 🚧 |
