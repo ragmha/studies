@@ -5,7 +5,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [13/16]
+## PROGRESS 🚀 [14/16]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -22,7 +22,7 @@
 | [Converting an array-like object into an Array with Array.from()](./practices/array-from) | 🔥 |
 | [Promises with ES6](./practices/promises.js) | 🔥 |
 | [ES6 Generators](./practices/generators.js) | 🔥 |
-| [Maps and WeakMaps with ES6](./practices/Maps.js) | 🚧 |
+| [Maps and WeakMaps with ES6](./practices/Maps.js) | 🔥 |
 | [ES6 Parameter Object Destructuring with Required Values](./practices/destructuring-require.js) | 🚧 |
 | [ES6 Rest Parameters](./practices/rest.js) | 🚧 |
 
