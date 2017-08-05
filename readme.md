@@ -4,7 +4,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [5/11]
+## PROGRESS 🚀 [6/11]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -19,7 +19,7 @@
 | [Another push eg](./practices/push2) | 🚧 |
 | [Modify Values in an Array with Map](./practices/map.js) | 🚧 |
 | [Validate Data with the Every() Method](./practices/every.js) | 🚧 |
-| [Produce a single value from an Array with reduce](./practices/reduce.js) | 🚧 |
+| [Produce a single value from an Array with reduce](./practices/reduce.js) | 🔥 |
 
 
 ## License
