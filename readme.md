@@ -5,7 +5,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [7/9]
+## PROGRESS 🚀 [8/9]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -16,7 +16,7 @@
 | [Create an Array concatAll method](./practices/concatAll.js) | 🔥 |
 | [Introducing the Observable](./practices/observable.js) | 🔥 |
 | [Using the map method with Observable](./practices/observable-map.js) | 🔥 |
-| [Simple drag and drop with Observables](./practices/drag-with-drop.js) | 🚧 |
+| [Simple drag and drop with Observables](./practices/drag-with-drop.js) | 🔥 |
 | [Advanced Flattening](./practices/flattening.js) | 🚧 |
 
 ## License
