@@ -4,7 +4,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [8/12]
+## PROGRESS 🚀 [9/12]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -15,7 +15,7 @@
 | [Sort an Array Alphabetically or Numerically](./practices/sort.js) | 🔥 |
 | [Filter an Array with Truthy Values](./practices/filter.js) | 🚧 |
 | [Use Some as a Ternary Operator or Conditional](./practices/some.js) | 🔥 |
-| [Add Elements onto an Array with push](./practices/push.js) | 🚧 |
+| [Add Elements onto an Array with push](./practices/push.js) | 🔥 |
 | [Another push eg](./practices/push2) | 🚧 |
 | [Modify Values in an Array with Map](./practices/map.js) | 🚧 |
 | [Validate Data with the Every() Method](./practices/every.js) | 🔥 |
