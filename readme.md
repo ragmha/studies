@@ -15,7 +15,8 @@
 | [Sort an Array Alphabetically or Numerically](./practices/sort.js) | 🚧 |
 | [Filter an Array with Truthy Values](./practices/filter.js) | 🚧 |
 | [Use Some as a Ternary Operator or Conditional](./practices/some.js) | 🚧 |
-| <li>[Add Elements onto an Array with push](./practices/push.js)</li><li>[Another push eg](./practices/push2)</li> | 🚧 |
+| [Add Elements onto an Array with push](./practices/push.js) | 🚧 |
+| [Another push eg](./practices/push2) | 🚧 |
 | [Modify Values in an Array with Map](./practices/map.js) | 🚧 |
 | [Validate Data with the Every() Method](./practices/every.js) | 🚧 |
 | [Produce a single value from an Array with reduce](./practices/reduce.js) | 🚧 |
