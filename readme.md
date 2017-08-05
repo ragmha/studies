@@ -4,7 +4,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [10/12]
+## PROGRESS 🚀 [11/12]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -17,7 +17,7 @@
 | [Use Some as a Ternary Operator or Conditional](./practices/some.js) | 🔥 |
 | [Add Elements onto an Array with push](./practices/push.js) | 🔥 |
 | [Another push eg](./practices/push2) | 🚧 |
-| [Modify Values in an Array with Map](./practices/map.js) | 🚧 |
+| [Modify Values in an Array with Map](./practices/map.js) | 🔥 |
 | [Validate Data with the Every() Method](./practices/every.js) | 🔥 |
 | [Produce a single value from an Array with reduce](./practices/reduce.js) | 🔥 |
 
