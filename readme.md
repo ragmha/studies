@@ -4,13 +4,13 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [2/11]
+## PROGRESS 🚀 [3/11]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
 | [Use Concat to Add Values to an Array](./practices/concat.js) | 🔥 |
 | [Combine Values of an Array into a String with Join](./practices/join.js) | 🔥 |
-| [Check if a Value is in an Array with indexOf](./practices/indexOf.js) | 🚧 |
+| [Check if a Value is in an Array with indexOf](./practices/indexOf.js) | 🔥 |
 | [Create a Shallow Copy of an Array with Slice](./practices/slice.js) | 🚧 |
 | [Sort an Array Alphabetically or Numerically](./practices/sort.js) | 🚧 |
 | [Filter an Array with Truthy Values](./practices/filter.js) | 🚧 |
