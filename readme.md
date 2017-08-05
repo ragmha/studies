@@ -5,7 +5,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [5/9]
+## PROGRESS 🚀 [6/9]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -14,7 +14,7 @@
 | [The Array filter method](./practices/filter.js) | 🔥 |
 | [Chaining the Array map and filter methods](./practices/chain.js) | 🔥 |
 | [Create an Array concatAll method](./practices/concatAll.js) | 🔥 |
-| [Introducing the Observable](./practices/observable.js) | 🚧 |
+| [Introducing the Observable](./practices/observable.js) | 🔥 |
 | [Using the map method with Observable](./practices/observable-map.js) | 🚧 |
 | [Simple drag and drop with Observables](./practices/drag-with-drop.js) | 🚧 |
 | [Advanced Flattening](./practices/flattening.js) | 🚧 |
