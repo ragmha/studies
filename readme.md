@@ -5,7 +5,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [8/16]
+## PROGRESS 🚀 [9/16]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -17,7 +17,7 @@
 | [Object Enhancements in ES6](./practices/enhancements.js) | 🔥 |
 | [Using the ES6 spread operator](./practices/spread.js) | 🔥 |
 | [String Templates in ES6](./practices/string-templates.js) | 🔥 |
-| [Destructuring Assignment in ES6](./practices/destructuring.js) | 🚧 |
+| [Destructuring Assignment in ES6](./practices/destructuring.js) | 🔥 |
 | [ES6 Modules - Import and Export](./practices/es6-modules) | 🚧 |
 | [Converting an array-like object into an Array with Array.from()](./practices/array-from) | 🚧 |
 | [Promises with ES6](./practices/promises.js) | 🚧 |
