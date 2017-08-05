@@ -5,7 +5,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [9/16]
+## PROGRESS 🚀 [11/16]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -19,7 +19,7 @@
 | [String Templates in ES6](./practices/string-templates.js) | 🔥 |
 | [Destructuring Assignment in ES6](./practices/destructuring.js) | 🔥 |
 | [ES6 Modules - Import and Export](./practices/es6-modules) | 🔥 |
-| [Converting an array-like object into an Array with Array.from()](./practices/array-from) | 🚧 |
+| [Converting an array-like object into an Array with Array.from()](./practices/array-from) | 🔥 |
 | [Promises with ES6](./practices/promises.js) | 🚧 |
 | [ES6 Generators](./practices/generators.js) | 🚧 |
 | [Maps and WeakMaps with ES6](./practices/Maps.js) | 🚧 |
