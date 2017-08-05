@@ -5,7 +5,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [12/16]
+## PROGRESS 🚀 [13/16]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -21,7 +21,7 @@
 | [ES6 Modules - Import and Export](./practices/es6-modules) | 🔥 |
 | [Converting an array-like object into an Array with Array.from()](./practices/array-from) | 🔥 |
 | [Promises with ES6](./practices/promises.js) | 🔥 |
-| [ES6 Generators](./practices/generators.js) | 🚧 |
+| [ES6 Generators](./practices/generators.js) | 🔥 |
 | [Maps and WeakMaps with ES6](./practices/Maps.js) | 🚧 |
 | [ES6 Parameter Object Destructuring with Required Values](./practices/destructuring-require.js) | 🚧 |
 | [ES6 Rest Parameters](./practices/rest.js) | 🚧 |
