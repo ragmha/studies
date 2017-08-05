@@ -14,7 +14,7 @@
 | :-------------  | :------------- |
 | [Learn ES6 (ECMAScript 2015)](https://github.com/ragmha/eH-learn-es6) | 🔥 |
 | [Understand JavaScript Arrays](https://github.com/ragmha/eH-understanding-arrays) | 🔥 |
-| [Reduce Data with Javascript Array#reduce]() | 🚧 |
+| [Reduce Data with Javascript Array#reduce](https://github.com/ragmha/eH-reduce-data-array) | 🔥 |
 | [Asynchronous Programming: The End of The Loop]() | 🚧 |
 | [Professor Frisby Introduces Composable Functional JavaScript]() | 🚧 |
 
