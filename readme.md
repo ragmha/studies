@@ -3,13 +3,13 @@
 
 ## KEY
 * 🚧 - TODO ..
-* 🚧 - DONE
+* 🔥 - DONE
 
-## PROGRESS 🚀 [0/8]
+## PROGRESS 🚀 [1/8]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
-| [Introducing Reduce: Transforming Arrays Functionally](./practices/intro-reduce-transformArr-func.js) | 🚧 |
+| [Introducing Reduce: Transforming Arrays Functionally](./practices/intro-reduce-transformArr-func.js) | 🔥 |
 | [Introducing Reduce: Reducing an Array into an Object](./practices/reduce-arr-obj.js) | 🚧 |
 | [Introducing Reduce: Common Patterns](./practices/common-patterns.js) | 🚧 |
 | [Advanced Reduce: Additional Reducer Arguments](./practices/additional-reducerArgs.js) | 🚧 |
