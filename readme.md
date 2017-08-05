@@ -5,7 +5,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [8/9]
+## PROGRESS 🚀 [9/9]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -17,7 +17,7 @@
 | [Introducing the Observable](./practices/observable.js) | 🔥 |
 | [Using the map method with Observable](./practices/observable-map.js) | 🔥 |
 | [Simple drag and drop with Observables](./practices/drag-with-drop.js) | 🔥 |
-| [Advanced Flattening](./practices/flattening.js) | 🚧 |
+| [Advanced Flattening](./practices/flattening.js) | 🔥 |
 
 ## License
 [MIT](./license) © [Raghib Hasan](http://raghibm.com/)
