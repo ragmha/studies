@@ -6,13 +6,13 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [4/-]
+## PROGRESS 🚀 [1/-]
 
 ## ![JS](./js-logo.png)
 
 |    Course       |    Status  |
 | :-------------  | :------------- |
-| [Learn ES6 (ECMAScript 2015)]() | 🚧 |
+| [Learn ES6 (ECMAScript 2015)](https://github.com/ragmha/eH-learn-es6) | 🔥 |
 | [Understand JavaScript Arrays]() | 🚧 |
 | [Reduce Data with Javascript Array#reduce]() | 🚧 |
 | [Asynchronous Programming: The End of The Loop]() | 🚧 |
