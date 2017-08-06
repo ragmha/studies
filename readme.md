@@ -5,7 +5,7 @@
 * 🚧 - TODO..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [7/8]
+## PROGRESS 🚀 [8/8]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -16,7 +16,7 @@
 | [Await Multiple Promises Sequentially or Concurrently](./practices/seq-conc.js) | 🔥 | 
 | [Await Multiple Promises Concurrently with Promise.all()](./practices/multiple-promise.js) | 🔥 | 
 | [Use the await Operator with Any Thenable](./practices/await-operator.js) | 🔥 | 
-| [Iterate Asynchronously with the for-await-of Loop]() | 🚧 | 
+| [Iterate Asynchronously with the for-await-of Loop](./practices/for-await-loop.js) | 🔥 | 
 
 
 ## License

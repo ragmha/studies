@@ -8,5 +8,8 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "node-fetch": "^1.7.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.2"
   }
 }
