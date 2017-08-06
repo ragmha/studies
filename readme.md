@@ -6,7 +6,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [4/-]
+## PROGRESS 🚀 [5/-]
 
 ## ![JS](./js-logo.png)
 
@@ -16,7 +16,7 @@
 | [Understand JavaScript Arrays](https://github.com/ragmha/eH-understanding-arrays) | 🔥 |
 | [Reduce Data with Javascript Array#reduce](https://github.com/ragmha/eH-reduce-data-array) | 🔥 |
 | [Asynchronous Programming: The End of The Loop](https://github.com/ragmha/eH-async-endOfLoop) | 🔥 |
-| [Asynchronous JavaScript with async/await]() | 🚧 |
+| [Asynchronous JavaScript with async/await](https://github.com/ragmha/eH-async-await) |🔥 |
 | [Professor Frisby Introduces Composable Functional JavaScript]() | 🚧 |
 
 
