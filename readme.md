@@ -5,7 +5,7 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [5/8]
+## PROGRESS 🚀 [6/8]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -14,7 +14,7 @@
 | [Convert Any Function into an Asynchronous Function](./practices/convert-func.js) | 🔥 | 
 | [Handle Errors in Asynchronous Functions](./practices/handle-errors.js) | 🔥 | 
 | [Await Multiple Promises Sequentially or Concurrently](./practices/seq-conc.js) | 🔥 | 
-| Await Multiple Promises Concurrently with Promise.all() | 🚧 | 
+| [Await Multiple Promises Concurrently with Promise.all()]() | 🔥 | 
 | Use the await Operator with Any Thenable | 🚧 | 
 | Iterate Asynchronously with the for-await-of Loop | 🚧 | 
 
