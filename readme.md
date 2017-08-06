@@ -2,10 +2,10 @@
 
 
 ## KEY
-* 🚧 - TODO ..
+* 🚧 - TODO..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [6/8]
+## PROGRESS 🚀 [7/8]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -15,8 +15,8 @@
 | [Handle Errors in Asynchronous Functions](./practices/handle-errors.js) | 🔥 | 
 | [Await Multiple Promises Sequentially or Concurrently](./practices/seq-conc.js) | 🔥 | 
 | [Await Multiple Promises Concurrently with Promise.all()](./practices/multiple-promise.js) | 🔥 | 
-| Use the await Operator with Any Thenable | 🚧 | 
-| Iterate Asynchronously with the for-await-of Loop | 🚧 | 
+| [Use the await Operator with Any Thenable](./practices/await-operator.js) | 🔥 | 
+| [Iterate Asynchronously with the for-await-of Loop]() | 🚧 | 
 
 
 ## License

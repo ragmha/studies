@@ -6,6 +6,7 @@
   "author": "Raghib Hasan <raghibmidhat@gmail.com> (http://raghibm.com/)",
   "license": "MIT",
   "dependencies": {
+    "bluebird": "^3.5.0",
     "node-fetch": "^1.7.1"
   }
 }
