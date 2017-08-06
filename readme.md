@@ -5,12 +5,12 @@
 * 🚧 - TODO ..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [1/8]
+## PROGRESS 🚀 [2/8]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
 | [Write an Asynchronous Function with async/await](./practices/async-func.js) | 🔥 | 
-| Call an Asynchronous Function in a Promise Chain | 🚧 | 
+| [Call an Asynchronous Function in a Promise Chain]((./practices/promise-chain.js) ) | 🔥 | 
 | Convert Any Function into an Asynchronous Function | 🚧 | 
 | Handle Errors in Asynchronous Functions | 🚧 | 
 | Await Multiple Promises Sequentially or Concurrently | 🚧 | 
