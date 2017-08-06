@@ -4,7 +4,7 @@
 * 🚧 - TODO..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [4/6]
+## PROGRESS 🚀 [5/6]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
@@ -12,8 +12,8 @@
 | [Send messages to and from JavaScript (ES6) generators](./practices/message.js) |  🔥 | 
 | [Error handling in JavaScript (ES6) generators](./practices/error-handling.js) |  🔥 | 
 | [Iterate over JavaScript (ES6) generators](./practices/iterate.js) |  🔥 | 
-| Delegate JavaScript (ES6) generator iteration control |  🚧 | 
-| Use JavaScript (ES6) generators with Promises to handle async flows |  🚧 | 
+| [Delegate JavaScript (ES6) generator iteration control](./practices/delegate.js) |  🔥 | 
+| [Use JavaScript (ES6) generators with Promises to handle async flows]() |  🚧 | 
 
 
 ## License
