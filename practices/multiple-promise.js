@@ -8,16 +8,15 @@ async function fetchFromGithub(handle) {
 
 /**
  * Aggregate the result of multiple promises
+ * Order of Result depends on the Order in Promise.all
+ * Promise.all has a fail fast behaviour
  */
 async function showUserAndRepos(handle) {
   try {
-    const results = await Promise.all([
+    const [user, repos] = await Promise.all([
       fetchFromGithub(`/users/${handle}`),
       fetchFromGithub(`/users/${handle}/repos`),
     ]);
-
-    const user = results[0];
-    const repos = results[1];
 
     console.log(`User: ${user.name}, Repos:${repos.length}`);
   } catch (error) {
@@ -25,4 +24,4 @@ async function showUserAndRepos(handle) {
   }
 }
 
-showUserAndRepos('ragmha');
+showUserAndRepos('ragmha'); // => User: Räghib, Repos:30

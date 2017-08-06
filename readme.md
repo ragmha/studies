@@ -14,7 +14,7 @@
 | [Convert Any Function into an Asynchronous Function](./practices/convert-func.js) | 🔥 | 
 | [Handle Errors in Asynchronous Functions](./practices/handle-errors.js) | 🔥 | 
 | [Await Multiple Promises Sequentially or Concurrently](./practices/seq-conc.js) | 🔥 | 
-| [Await Multiple Promises Concurrently with Promise.all()]() | 🔥 | 
+| [Await Multiple Promises Concurrently with Promise.all()](./practices/multiple-promise.js) | 🔥 | 
 | Use the await Operator with Any Thenable | 🚧 | 
 | Iterate Asynchronously with the for-await-of Loop | 🚧 | 
 
