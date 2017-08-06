@@ -4,11 +4,11 @@
 * 🚧 - TODO..
 * 🔥 - DONE
 
-## PROGRESS 🚀 [0/6]
+## PROGRESS 🚀 [1/6]
 
 |  Topic       |        Status     |
 | :-------------  | :------------- |
-| Use JavaScript (ES6) generators to pause function execution |  🚧 | 
+| [Use JavaScript (ES6) generators to pause function execution](./practices/pause.js) |  🔥 | 
 | Send messages to and from JavaScript (ES6) generators |  🚧 | 
 | Error handling in JavaScript (ES6) generators |  🚧 | 
 | Iterate over JavaScript (ES6) generators |  🚧 | 
