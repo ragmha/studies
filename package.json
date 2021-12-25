@@ -9,6 +9,7 @@
   "author": "Raghib Hasan",
   "license": "MIT",
   "workspaces": [
-    "experiments/*"
+    "experiments/*",
+    "knowledge/*"
   ]
 }
