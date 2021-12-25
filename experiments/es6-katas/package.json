@@ -1,0 +1,34 @@
+{
+  "name": "es6-katas",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Learning ES6 by doing it. Fix failing tests. Keep all learnings 👍",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require babel-polyfill --compilers js:babel-register --colors --recursive --reporter progress",
+    "test:watch": "mocha --watch --colors --recursive --reporter progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragmha/ES6-Katas.git"
+  },
+  "keywords": [],
+  "author": "Raghib Hasan <raghibmidhat@gmail.com> (http://raghibm.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ragmha/ES6-Katas/issues"
+  },
+  "homepage": "https://github.com/ragmha/ES6-Katas#readme",
+  "dependencies": {
+    "istanbul": "0.4.5",
+    "mocha": "9.1.3"
+  },
+  "devDependencies": {
+    "babel-polyfill": "6.26.0",
+    "babel-preset-env": "1.7.0",
+    "babel-register": "6.26.0",
+    "codecov": "3.8.2",
+    "jsdom": "19.0.0",
+    "jsdom-global": "3.0.2"
+  }
+}
