@@ -1,0 +1,32 @@
+{
+  "name": "counter",
+  "private": true,
+  "version": "0.0.0",
+  "author": {
+    "name": "Raghib Hasan"
+  },
+  "scripts": {
+    "build": "rimraf ./build && tsc",
+    "start:dev": "nodemon",
+    "start": "npm run build && node build/index.js",
+    "lint": "eslint . --ext .ts",
+    "format": "onchange 'src/**/*.ts' -- prettier --write {{changed}}",
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "@types/node": "^17.0.4",
+    "eslint": "8.5.0",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-plugin-jest": "^25.3.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "jest": "^27.4.5",
+    "nodemon": "2.0.15",
+    "onchange": "7.1.0",
+    "prettier": "2.5.1",
+    "ts-jest": "^27.1.2",
+    "ts-node-dev": "1.1.8",
+    "xstate": "4.26.1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.format.enable": true,
+  "eslint.workingDirectories": [
+    {
+      "pattern": "./packages/*"
+    }
+  ],
+  "files.autoSave": "onFocusChange",
+  "editor.tabSize": 2,
+  "prettier.requireConfig": false,
+  "prettier.semi": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true,
+    "addMissingImports": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "html.format.enable": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "emmet.includeLanguages": {
+    "postcss": "css",
+    "javascript": "javascriptreact",
+    "markdown": "javascriptreact"
+  },
+  "emmet.syntaxProfiles": {
+    "postcss": "css"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "javascript.validate.enable": true,
+  "javascript.suggestionActions.enabled": false
+}

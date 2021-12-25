@@ -1,0 +1,14 @@
+{
+  "name": "studies",
+  "version": "0.0.0",
+  "description": "Random studies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghib Hasan",
+  "license": "MIT",
+  "workspaces": [
+    "experiments/*"
+  ]
+}
