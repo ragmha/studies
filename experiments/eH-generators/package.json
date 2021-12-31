@@ -1,0 +1,12 @@
+{
+  "name": "eH-generators",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ragmha/eH-generators.git",
+  "author": "Raghib Hasan <raghibmidhat@gmail.com> (http://raghibm.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "node-fetch": "^1.7.1"
+  }
+}
