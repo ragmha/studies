@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "allowJs": true,
+    "outDir": "dist",
+    "lib": ["esnext"]
+  },
+  "files": ["./practices/for-await-loop.js"]
+}

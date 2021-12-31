@@ -1,0 +1,18 @@
+{
+  "name": "eH-async-await",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": "git@github.com:ragmha/eH-async-await.git",
+  "author": "Raghib Hasan <raghibmidhat@gmail.com> (http://raghibm.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "node-fetch": "^1.7.1"
+  },
+  "devDependencies": {
+    "typescript": "^2.4.2"
+  }
+}
