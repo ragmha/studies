@@ -52,5 +52,6 @@
   "editor.fontFamily": "Fira Code",
   "editor.fontLigatures": true,
   "javascript.validate.enable": true,
-  "javascript.suggestionActions.enabled": false
+  "javascript.suggestionActions.enabled": false,
+  "cSpell.language": "en,sv-SE"
 }
